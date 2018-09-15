@@ -1,0 +1,9 @@
+#vm|TOOLSVERSION 0
+DEVICE PhysicalDrive0
+#vm|VERSION 2
+
+
+# Partition type: MBR
+RDONLY 0 62
+# Partition type: HPFS/NTFS
+RDONLY 63 156280319

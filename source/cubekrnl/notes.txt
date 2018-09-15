@@ -1,0 +1,3 @@
+Before release:
+===================
+# -strip-all in ld

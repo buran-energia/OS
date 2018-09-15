@@ -1,0 +1,17 @@
+CUBEPATH = c:\work\cube
+MTOOLS   = $(CUBEPATH)\tools\mtools
+CC       = gcc
+NASM     = nasm
+NFLAGS   = -f win32
+RM       = del
+CP       = copy
+LD       = ld
+DLLTOOL  = dlltool
+CFLAGS  += -fno-builtin -Wall
+LIBPATH  = $(CUBEPATH)\lib
+
+%.o : %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+	
+%.o : %.asm
+	$(NASM) $(NFLAGS) $< -o $@

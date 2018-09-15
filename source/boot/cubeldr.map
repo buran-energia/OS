@@ -1,0 +1,17 @@
+    Base    Start  Lnth  Segment       Group   Class  Module
+       0     8000   2AD  __NASMDEFSEG  (null)         bootldr.asm  out\bootldr.obj
+       0     82AD   562  _TEXT         (null)  CODE   boot.c       out\boot.obj
+       0     880F   72F  _TEXT         (null)  CODE   printf.c     out\printf.obj
+       0     8F3E   1B9  _TEXT         (null)  CODE   itoa.c       out\itoa.obj
+       0     90F7   1BE  _TEXT         (null)  CODE   string.c     out\string.obj
+       0     92B5   69B  _TEXT         (null)  CODE   fat.c        out\fat.obj
+       0     9950    B0  _TEXT         (null)  CODE   parse.c      out\parse.obj
+       0     9A00   3A0  .text         (null)  code   pmode.c      out\pmode.obj
+       0     9DA0    10  .data         (null)  data   pmode.c      out\pmode.obj
+       0     9DB0    4C  _BSS          DGROUP  BSS    boot.c       out\boot.obj
+       0     9DFC    22  _BSS          DGROUP  BSS    fat.c        out\fat.obj
+       0     9E1E     2  _BSS          DGROUP  BSS    parse.c      out\parse.obj
+       0     9E20   875  _DATA         DGROUP  DATA   boot.c       out\boot.obj
+       0     A696     7  _DATA         DGROUP  DATA   printf.c     out\printf.obj
+       0     A69E   5A1  _DATA         DGROUP  DATA   fat.c        out\fat.obj
+       0     AC40   53D  _DATA         DGROUP  DATA   parse.c      out\parse.obj

@@ -1,0 +1,28 @@
+[System]
+Config version=0
+OS Type=0
+Boot=a
+Memory=64
+Start auto=0
+Start full screen=0
+Show full screen warning=1
+[Floppy disks]
+Floppy 0=1
+Floppy 0 image=C:\Work\Cube\flop.img
+Floppy 0 connected=1
+[IDE devices]
+Disk 0:0=0
+Disk 0:1=0
+[Serial ports]
+COM1=0
+COM2=0
+COM3=0
+COM4=0
+[Parallel ports]
+LPT1=0
+LPT2=0
+LPT3=0
+[Sound]
+Sound enable=0
+[Network]
+Network enable=0

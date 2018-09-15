@@ -1,0 +1,4 @@
+- PaintAll/SetOnTop/SetColor ... functions must use AddRect function
+- fix repaintrect no double-pixels!
+- optimize rectangle(), and putimage (with dword (mmx?sse?))
+- update CreateMask... see mask.c

@@ -1,0 +1,1 @@
+gpp *.cpp freetype\objs\*.o -IFreeType\include -o gui.exe

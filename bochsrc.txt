@@ -1,0 +1,19 @@
+romimage: file=BIOS-bochs-latest, address=0xf0000
+
+megs: 8
+
+vgaromimage: $BXSHARE/VGABIOS-elpin-2.40
+
+floppya: 1_44=c:\games\cube\flop.img, status=inserted
+
+boot: floppy
+
+floppy_bootsig_check: disabled=0
+
+log: bochsout.txt
+
+panic: action=ask
+error: action=report
+info: action=report
+debug: action=ignore
+#pass: action=fatal

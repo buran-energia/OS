@@ -1,0 +1,1 @@
+gcc count.c -o count.exe

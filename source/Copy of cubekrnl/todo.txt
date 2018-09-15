@@ -1,0 +1,2 @@
+TO CHECK:
+- are gdt and idt aligned on 8-byte boundary

@@ -1,0 +1,11 @@
+#vm|TOOLSVERSION 0
+DEVICE PhysicalDrive1
+#vm|VERSION 2
+
+
+# Partition type: MBR
+RDONLY 0 62
+# Partition type: Win95 FAT32
+RDONLY 63 6056504
+# Partition type: HPFS/NTFS
+RDONLY 6056505 78172289

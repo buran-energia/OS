@@ -1,0 +1,30 @@
+config.version = "6"
+virtualHW.version = 2
+displayName = "Cube"
+guestOS = "other"
+ide0:0.present = "true"
+ide0:0.fileName = "fat16.vmdk"
+ide1:0.present = "true"
+ide1:0.deviceType = "atapi-cdrom"
+ide1:0.fileName = "auto detect"
+memsize = 8
+ethernet0.present = "true"
+
+uuid.location = "56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63"
+
+draw = "gdi"
+RemoteDisplay.bpp = 24
+RemoteDisplay.depth = 24
+debug = FALSE
+
+ide0:1.present = TRUE
+ide0:1.deviceType = "rawDisk"
+ide0:1.fileName = "Other (3).raw"
+ide0:0.deviceType = "ata-hardDisk"
+
+disable_acceleration = FALSE
+
+localConsole = TRUE
+
+floppy0.fileType = "file"
+floppy0.fileName = "C:\Work\Cube\flop.img"

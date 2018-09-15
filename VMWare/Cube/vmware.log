@@ -1,0 +1,2027 @@
+Mar 18 03:31:25: VMX|Log for VMware GSX Server pid=704 version=2.5.1 build=build-5336 option=RELEASE
+Mar 18 03:31:25: VMX|Command line: "vmware" "-G"
+Mar 18 03:31:25: VMX|(VMX) DeclareThread UI module=6 source=0x20000
+Mar 18 03:31:25: VMX|VUI: A new gui connected.
+Mar 18 03:31:25: VMX|(VMX) DeclareThread MKS module=136 source=0x80000
+Mar 18 03:31:25: MKS|Log for VMware GSX Server pid=704 version=2.5.1 build=build-5336 option=RELEASE
+Mar 18 03:31:25: UI|Log for VMware GSX Server pid=704 version=2.5.1 build=build-5336 option=RELEASE
+Mar 18 03:31:25: VMX|DICT: Set ConfigVersion to 6
+Mar 18 03:31:25: VMX|DICT: Set HWVersion to 2
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x00330000 size=0x000cd000 name=LIBEAY32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x00400000 size=0x00372000 name=vmware.exe
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x00780000 size=0x00027000 name=SSLEAY32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x011f0000 size=0x0002b000 name=msctfime.ime
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x51080000 size=0x00056000 name=DSOUND.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x62d80000 size=0x00009000 name=LPK.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x690d0000 size=0x0000c000 name=ntwrap.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x69200000 size=0x0016d000 name=vmxUI.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x69500000 size=0x000cd000 name=VMXMKSAX.OCX
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x70ad0000 size=0x000e6000 name=COMCTL32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71b70000 size=0x00033000 name=UxTheme.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71bb0000 size=0x00009000 name=WSOCK32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71bf0000 size=0x00008000 name=WS2HELP.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71c00000 size=0x00018000 name=WS2_32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x722c0000 size=0x00028000 name=DINPUT.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x73010000 size=0x0005e000 name=USP10.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x73d20000 size=0x000f3000 name=MFC42.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x744c0000 size=0x00028000 name=Msimtf.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x744f0000 size=0x0004b000 name=MSCTF.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x748d0000 size=0x00008000 name=CFGMGR32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x75e60000 size=0x00022000 name=apphelp.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76290000 size=0x0001d000 name=IMM32.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x765a0000 size=0x00100000 name=SETUPAPI.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x766d0000 size=0x00009000 name=shfolder.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76aa0000 size=0x0002c000 name=WINMM.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76b70000 size=0x0000b000 name=PSAPI.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76f50000 size=0x00013000 name=Secur32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x770e0000 size=0x0007d000 name=OLEAUT32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77160000 size=0x00124000 name=ole32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77290000 size=0x00049000 name=SHLWAPI.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77380000 size=0x007dd000 name=SHELL32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77b90000 size=0x00008000 name=VERSION.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77ba0000 size=0x00054000 name=MSVCRT.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77c00000 size=0x00044000 name=GDI32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77c50000 size=0x000a4000 name=RPCRT4.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77d00000 size=0x0008f000 name=USER32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77da0000 size=0x00090000 name=ADVAPI32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77e40000 size=0x000f4000 name=kernel32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77f40000 size=0x000ba000 name=ntdll.dll
+Mar 18 03:31:25: VMX|GCFMI: reached kernel memory at 0x7fff0000
+Mar 18 03:31:25: VMX|GCFMI: free=0x4fb4e000, potential=0x4fe65000 start=0x0121b000
+Mar 18 03:31:25: VMX|VMX: changing state 0 from 0 to 1870
+Mar 18 03:31:25: VMX|VMX: changing state 1 from 0 to 1873
+Mar 18 03:31:25: VMX|VMX: changing state 2 from 0 to 1877
+Mar 18 03:31:25: VMX|VMX: changing state 3 from 0 to 1881
+Mar 18 03:31:25: VMX|Hostinfo_NumLogicalCPUs: detected 1 logical processors
+Mar 18 03:31:25: VMX|MStat: Creating Stat system.cpuusage
+Mar 18 03:31:25: VMX|MStat: Creating Stat system.ram
+Mar 18 03:31:25: VMX|MStat: Creating Stat system.uptime
+Mar 18 03:31:25: VMX|MStat: Creating Stat system.load
+Mar 18 03:31:25: VMX|VMMon_GetkHzEstimate: Calculated 226177 kHz
+Mar 18 03:31:25: VMX|Measured CPU as 226177 kHz, but registry says 2393000 kHzCPU #0 TSC = 125535992965268
+Mar 18 03:31:25: VMX|TSC delta 0
+Mar 18 03:31:25: VMX|CPUID numEntries=2 GenuineIntel
+Mar 18 03:31:25: VMX|CPUID version=0xf27 features=0xbfebfbff ebx=0x10809
+Mar 18 03:31:25: VMX|CPU.cpuFeatures = 0x31fe01
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 720 by 480 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 720 by 576 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 8 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 8 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 8 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 8 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 8 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 720 by 480 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 720 by 576 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 16 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 16 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 16 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 16 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 16 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 200 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 320 by 240 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 400 by 300 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 480 by 360 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 512 by 384 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 400 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 720 by 480 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 720 by 576 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 848 by 480 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1024 by 768 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1152 by 864 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 720 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 768 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 960 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1280 by 1024 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1360 by 768 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 900 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1024 depth 32 rr 85
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 32 rr 60
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 32 rr 70
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 32 rr 72
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 32 rr 75
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 8 rr 56
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 8 rr 65
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 16 rr 56
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 16 rr 65
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 32 rr 56
+Mar 18 03:31:25: MKS|Enumerating display mode: 1600 by 1200 depth 32 rr 65
+Mar 18 03:31:25: MKS|Enumerating display mode: 640 by 480 depth 4 rr 1
+Mar 18 03:31:25: MKS|Dropping display mode (mode isn't supported) <4, 640, 480, 1>
+Mar 18 03:31:25: MKS|Enumerating display mode: 800 by 600 depth 4 rr 1
+Mar 18 03:31:25: MKS|Dropping display mode (mode isn't supported) <4, 800, 600, 1>
+Mar 18 03:31:25: MKS|GDI Display modes:
+Mar 18 03:31:25: MKS|  320 by 200 depth 8 rr 60 bp 320
+Mar 18 03:31:25: MKS|  320 by 200 depth 8 rr 70 bp 320
+Mar 18 03:31:25: MKS|  320 by 200 depth 8 rr 72 bp 320
+Mar 18 03:31:25: MKS|  320 by 200 depth 8 rr 75 bp 320
+Mar 18 03:31:25: MKS|  320 by 240 depth 8 rr 60 bp 320
+Mar 18 03:31:25: MKS|  320 by 240 depth 8 rr 70 bp 320
+Mar 18 03:31:25: MKS|  320 by 240 depth 8 rr 72 bp 320
+Mar 18 03:31:25: MKS|  320 by 240 depth 8 rr 75 bp 320
+Mar 18 03:31:25: MKS|  400 by 300 depth 8 rr 60 bp 400
+Mar 18 03:31:25: MKS|  400 by 300 depth 8 rr 70 bp 400
+Mar 18 03:31:25: MKS|  400 by 300 depth 8 rr 72 bp 400
+Mar 18 03:31:25: MKS|  400 by 300 depth 8 rr 75 bp 400
+Mar 18 03:31:25: MKS|  480 by 360 depth 8 rr 60 bp 480
+Mar 18 03:31:25: MKS|  480 by 360 depth 8 rr 70 bp 480
+Mar 18 03:31:25: MKS|  480 by 360 depth 8 rr 72 bp 480
+Mar 18 03:31:25: MKS|  480 by 360 depth 8 rr 75 bp 480
+Mar 18 03:31:25: MKS|  512 by 384 depth 8 rr 60 bp 512
+Mar 18 03:31:25: MKS|  512 by 384 depth 8 rr 70 bp 512
+Mar 18 03:31:25: MKS|  512 by 384 depth 8 rr 72 bp 512
+Mar 18 03:31:25: MKS|  512 by 384 depth 8 rr 75 bp 512
+Mar 18 03:31:25: MKS|  640 by 400 depth 8 rr 60 bp 640
+Mar 18 03:31:25: MKS|  640 by 400 depth 8 rr 70 bp 640
+Mar 18 03:31:25: MKS|  640 by 400 depth 8 rr 72 bp 640
+Mar 18 03:31:25: MKS|  640 by 400 depth 8 rr 75 bp 640
+Mar 18 03:31:25: MKS|  640 by 480 depth 8 rr 60 bp 640
+Mar 18 03:31:25: MKS|  640 by 480 depth 8 rr 70 bp 640
+Mar 18 03:31:25: MKS|  640 by 480 depth 8 rr 72 bp 640
+Mar 18 03:31:25: MKS|  640 by 480 depth 8 rr 75 bp 640
+Mar 18 03:31:25: MKS|  640 by 480 depth 8 rr 85 bp 640
+Mar 18 03:31:25: MKS|  720 by 480 depth 8 rr 60 bp 720
+Mar 18 03:31:25: MKS|  720 by 576 depth 8 rr 60 bp 720
+Mar 18 03:31:25: MKS|  800 by 600 depth 8 rr 56 bp 800
+Mar 18 03:31:25: MKS|  800 by 600 depth 8 rr 60 bp 800
+Mar 18 03:31:25: MKS|  800 by 600 depth 8 rr 70 bp 800
+Mar 18 03:31:25: MKS|  800 by 600 depth 8 rr 72 bp 800
+Mar 18 03:31:25: MKS|  800 by 600 depth 8 rr 75 bp 800
+Mar 18 03:31:25: MKS|  800 by 600 depth 8 rr 85 bp 800
+Mar 18 03:31:25: MKS|  848 by 480 depth 8 rr 60 bp 848
+Mar 18 03:31:25: MKS|  848 by 480 depth 8 rr 70 bp 848
+Mar 18 03:31:25: MKS|  848 by 480 depth 8 rr 72 bp 848
+Mar 18 03:31:25: MKS|  848 by 480 depth 8 rr 75 bp 848
+Mar 18 03:31:25: MKS|  848 by 480 depth 8 rr 85 bp 848
+Mar 18 03:31:25: MKS|  1024 by 768 depth 8 rr 60 bp 1024
+Mar 18 03:31:25: MKS|  1024 by 768 depth 8 rr 70 bp 1024
+Mar 18 03:31:25: MKS|  1024 by 768 depth 8 rr 72 bp 1024
+Mar 18 03:31:25: MKS|  1024 by 768 depth 8 rr 75 bp 1024
+Mar 18 03:31:25: MKS|  1024 by 768 depth 8 rr 85 bp 1024
+Mar 18 03:31:25: MKS|  1152 by 864 depth 8 rr 60 bp 1152
+Mar 18 03:31:25: MKS|  1152 by 864 depth 8 rr 70 bp 1152
+Mar 18 03:31:25: MKS|  1152 by 864 depth 8 rr 72 bp 1152
+Mar 18 03:31:25: MKS|  1152 by 864 depth 8 rr 75 bp 1152
+Mar 18 03:31:25: MKS|  1152 by 864 depth 8 rr 85 bp 1152
+Mar 18 03:31:25: MKS|  1280 by 720 depth 8 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 720 depth 8 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 720 depth 8 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 720 depth 8 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 720 depth 8 rr 85 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 768 depth 8 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 768 depth 8 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 768 depth 8 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 768 depth 8 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 768 depth 8 rr 85 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 960 depth 8 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 960 depth 8 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 960 depth 8 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 960 depth 8 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 960 depth 8 rr 85 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 8 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 8 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 8 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 8 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 8 rr 85 bp 1280
+Mar 18 03:31:25: MKS|  1360 by 768 depth 8 rr 60 bp 1360
+Mar 18 03:31:25: MKS|  1360 by 768 depth 8 rr 70 bp 1360
+Mar 18 03:31:25: MKS|  1360 by 768 depth 8 rr 72 bp 1360
+Mar 18 03:31:25: MKS|  1360 by 768 depth 8 rr 75 bp 1360
+Mar 18 03:31:25: MKS|  1360 by 768 depth 8 rr 85 bp 1360
+Mar 18 03:31:25: MKS|  1600 by 900 depth 8 rr 60 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 900 depth 8 rr 70 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 900 depth 8 rr 72 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 900 depth 8 rr 75 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 900 depth 8 rr 85 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 8 rr 60 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 8 rr 70 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 8 rr 72 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 8 rr 75 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 8 rr 85 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 8 rr 60 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 8 rr 65 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 8 rr 70 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 8 rr 72 bp 1600
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 8 rr 75 bp 1600
+Mar 18 03:31:25: MKS|  320 by 200 depth 16 rr 60 bp 640
+Mar 18 03:31:25: MKS|  320 by 200 depth 16 rr 70 bp 640
+Mar 18 03:31:25: MKS|  320 by 200 depth 16 rr 72 bp 640
+Mar 18 03:31:25: MKS|  320 by 200 depth 16 rr 75 bp 640
+Mar 18 03:31:25: MKS|  320 by 240 depth 16 rr 60 bp 640
+Mar 18 03:31:25: MKS|  320 by 240 depth 16 rr 70 bp 640
+Mar 18 03:31:25: MKS|  320 by 240 depth 16 rr 72 bp 640
+Mar 18 03:31:25: MKS|  320 by 240 depth 16 rr 75 bp 640
+Mar 18 03:31:25: MKS|  400 by 300 depth 16 rr 60 bp 800
+Mar 18 03:31:25: MKS|  400 by 300 depth 16 rr 70 bp 800
+Mar 18 03:31:25: MKS|  400 by 300 depth 16 rr 72 bp 800
+Mar 18 03:31:25: MKS|  400 by 300 depth 16 rr 75 bp 800
+Mar 18 03:31:25: MKS|  480 by 360 depth 16 rr 60 bp 960
+Mar 18 03:31:25: MKS|  480 by 360 depth 16 rr 70 bp 960
+Mar 18 03:31:25: MKS|  480 by 360 depth 16 rr 72 bp 960
+Mar 18 03:31:25: MKS|  480 by 360 depth 16 rr 75 bp 960
+Mar 18 03:31:25: MKS|  512 by 384 depth 16 rr 60 bp 1024
+Mar 18 03:31:25: MKS|  512 by 384 depth 16 rr 70 bp 1024
+Mar 18 03:31:25: MKS|  512 by 384 depth 16 rr 72 bp 1024
+Mar 18 03:31:25: MKS|  512 by 384 depth 16 rr 75 bp 1024
+Mar 18 03:31:25: MKS|  640 by 400 depth 16 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  640 by 400 depth 16 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  640 by 400 depth 16 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  640 by 400 depth 16 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  640 by 480 depth 16 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  640 by 480 depth 16 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  640 by 480 depth 16 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  640 by 480 depth 16 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  640 by 480 depth 16 rr 85 bp 1280
+Mar 18 03:31:25: MKS|  720 by 480 depth 16 rr 60 bp 1440
+Mar 18 03:31:25: MKS|  720 by 576 depth 16 rr 60 bp 1440
+Mar 18 03:31:25: MKS|  800 by 600 depth 16 rr 56 bp 1600
+Mar 18 03:31:25: MKS|  800 by 600 depth 16 rr 60 bp 1600
+Mar 18 03:31:25: MKS|  800 by 600 depth 16 rr 70 bp 1600
+Mar 18 03:31:25: MKS|  800 by 600 depth 16 rr 72 bp 1600
+Mar 18 03:31:25: MKS|  800 by 600 depth 16 rr 75 bp 1600
+Mar 18 03:31:25: MKS|  800 by 600 depth 16 rr 85 bp 1600
+Mar 18 03:31:25: MKS|  848 by 480 depth 16 rr 60 bp 1696
+Mar 18 03:31:25: MKS|  848 by 480 depth 16 rr 70 bp 1696
+Mar 18 03:31:25: MKS|  848 by 480 depth 16 rr 72 bp 1696
+Mar 18 03:31:25: MKS|  848 by 480 depth 16 rr 75 bp 1696
+Mar 18 03:31:25: MKS|  848 by 480 depth 16 rr 85 bp 1696
+Mar 18 03:31:25: MKS|  1024 by 768 depth 16 rr 60 bp 2048
+Mar 18 03:31:25: MKS|  1024 by 768 depth 16 rr 70 bp 2048
+Mar 18 03:31:25: MKS|  1024 by 768 depth 16 rr 72 bp 2048
+Mar 18 03:31:25: MKS|  1024 by 768 depth 16 rr 75 bp 2048
+Mar 18 03:31:25: MKS|  1024 by 768 depth 16 rr 85 bp 2048
+Mar 18 03:31:25: MKS|  1152 by 864 depth 16 rr 60 bp 2304
+Mar 18 03:31:25: MKS|  1152 by 864 depth 16 rr 70 bp 2304
+Mar 18 03:31:25: MKS|  1152 by 864 depth 16 rr 72 bp 2304
+Mar 18 03:31:25: MKS|  1152 by 864 depth 16 rr 75 bp 2304
+Mar 18 03:31:25: MKS|  1152 by 864 depth 16 rr 85 bp 2304
+Mar 18 03:31:25: MKS|  1280 by 720 depth 16 rr 60 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 720 depth 16 rr 70 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 720 depth 16 rr 72 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 720 depth 16 rr 75 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 720 depth 16 rr 85 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 768 depth 16 rr 60 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 768 depth 16 rr 70 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 768 depth 16 rr 72 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 768 depth 16 rr 75 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 768 depth 16 rr 85 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 960 depth 16 rr 60 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 960 depth 16 rr 70 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 960 depth 16 rr 72 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 960 depth 16 rr 75 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 960 depth 16 rr 85 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 16 rr 60 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 16 rr 70 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 16 rr 72 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 16 rr 75 bp 2560
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 16 rr 85 bp 2560
+Mar 18 03:31:25: MKS|  1360 by 768 depth 16 rr 60 bp 2720
+Mar 18 03:31:25: MKS|  1360 by 768 depth 16 rr 70 bp 2720
+Mar 18 03:31:25: MKS|  1360 by 768 depth 16 rr 72 bp 2720
+Mar 18 03:31:25: MKS|  1360 by 768 depth 16 rr 75 bp 2720
+Mar 18 03:31:25: MKS|  1360 by 768 depth 16 rr 85 bp 2720
+Mar 18 03:31:25: MKS|  1600 by 900 depth 16 rr 60 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 900 depth 16 rr 70 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 900 depth 16 rr 72 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 900 depth 16 rr 75 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 900 depth 16 rr 85 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 16 rr 60 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 16 rr 70 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 16 rr 72 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 16 rr 75 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 16 rr 85 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 16 rr 60 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 16 rr 65 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 16 rr 70 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 16 rr 72 bp 3200
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 16 rr 75 bp 3200
+Mar 18 03:31:25: MKS|  320 by 200 depth 24 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  320 by 200 depth 24 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  320 by 200 depth 24 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  320 by 200 depth 24 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  320 by 240 depth 24 rr 60 bp 1280
+Mar 18 03:31:25: MKS|  320 by 240 depth 24 rr 70 bp 1280
+Mar 18 03:31:25: MKS|  320 by 240 depth 24 rr 72 bp 1280
+Mar 18 03:31:25: MKS|  320 by 240 depth 24 rr 75 bp 1280
+Mar 18 03:31:25: MKS|  400 by 300 depth 24 rr 60 bp 1600
+Mar 18 03:31:25: MKS|  400 by 300 depth 24 rr 70 bp 1600
+Mar 18 03:31:25: MKS|  400 by 300 depth 24 rr 72 bp 1600
+Mar 18 03:31:25: MKS|  400 by 300 depth 24 rr 75 bp 1600
+Mar 18 03:31:25: MKS|  480 by 360 depth 24 rr 60 bp 1920
+Mar 18 03:31:25: MKS|  480 by 360 depth 24 rr 70 bp 1920
+Mar 18 03:31:25: MKS|  480 by 360 depth 24 rr 72 bp 1920
+Mar 18 03:31:25: MKS|  480 by 360 depth 24 rr 75 bp 1920
+Mar 18 03:31:25: MKS|  512 by 384 depth 24 rr 60 bp 2048
+Mar 18 03:31:25: MKS|  512 by 384 depth 24 rr 70 bp 2048
+Mar 18 03:31:25: MKS|  512 by 384 depth 24 rr 72 bp 2048
+Mar 18 03:31:25: MKS|  512 by 384 depth 24 rr 75 bp 2048
+Mar 18 03:31:25: MKS|  640 by 400 depth 24 rr 60 bp 2560
+Mar 18 03:31:25: MKS|  640 by 400 depth 24 rr 70 bp 2560
+Mar 18 03:31:25: MKS|  640 by 400 depth 24 rr 72 bp 2560
+Mar 18 03:31:25: MKS|  640 by 400 depth 24 rr 75 bp 2560
+Mar 18 03:31:25: MKS|  640 by 480 depth 24 rr 60 bp 2560
+Mar 18 03:31:25: MKS|  640 by 480 depth 24 rr 70 bp 2560
+Mar 18 03:31:25: MKS|  640 by 480 depth 24 rr 72 bp 2560
+Mar 18 03:31:25: MKS|  640 by 480 depth 24 rr 75 bp 2560
+Mar 18 03:31:25: MKS|  640 by 480 depth 24 rr 85 bp 2560
+Mar 18 03:31:25: MKS|  720 by 480 depth 24 rr 60 bp 2880
+Mar 18 03:31:25: MKS|  720 by 576 depth 24 rr 60 bp 2880
+Mar 18 03:31:25: MKS|  800 by 600 depth 24 rr 56 bp 3200
+Mar 18 03:31:25: MKS|  800 by 600 depth 24 rr 60 bp 3200
+Mar 18 03:31:25: MKS|  800 by 600 depth 24 rr 70 bp 3200
+Mar 18 03:31:25: MKS|  800 by 600 depth 24 rr 72 bp 3200
+Mar 18 03:31:25: MKS|  800 by 600 depth 24 rr 75 bp 3200
+Mar 18 03:31:25: MKS|  800 by 600 depth 24 rr 85 bp 3200
+Mar 18 03:31:25: MKS|  848 by 480 depth 24 rr 60 bp 3392
+Mar 18 03:31:25: MKS|  848 by 480 depth 24 rr 70 bp 3392
+Mar 18 03:31:25: MKS|  848 by 480 depth 24 rr 72 bp 3392
+Mar 18 03:31:25: MKS|  848 by 480 depth 24 rr 75 bp 3392
+Mar 18 03:31:25: MKS|  848 by 480 depth 24 rr 85 bp 3392
+Mar 18 03:31:25: MKS|  1024 by 768 depth 24 rr 60 bp 4096
+Mar 18 03:31:25: MKS|  1024 by 768 depth 24 rr 70 bp 4096
+Mar 18 03:31:25: MKS|  1024 by 768 depth 24 rr 72 bp 4096
+Mar 18 03:31:25: MKS|  1024 by 768 depth 24 rr 75 bp 4096
+Mar 18 03:31:25: MKS|  1024 by 768 depth 24 rr 85 bp 4096
+Mar 18 03:31:25: MKS|  1152 by 864 depth 24 rr 60 bp 4608
+Mar 18 03:31:25: MKS|  1152 by 864 depth 24 rr 70 bp 4608
+Mar 18 03:31:25: MKS|  1152 by 864 depth 24 rr 72 bp 4608
+Mar 18 03:31:25: MKS|  1152 by 864 depth 24 rr 75 bp 4608
+Mar 18 03:31:25: MKS|  1152 by 864 depth 24 rr 85 bp 4608
+Mar 18 03:31:25: MKS|  1280 by 720 depth 24 rr 60 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 720 depth 24 rr 70 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 720 depth 24 rr 72 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 720 depth 24 rr 75 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 720 depth 24 rr 85 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 768 depth 24 rr 60 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 768 depth 24 rr 70 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 768 depth 24 rr 72 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 768 depth 24 rr 75 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 768 depth 24 rr 85 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 960 depth 24 rr 60 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 960 depth 24 rr 70 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 960 depth 24 rr 72 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 960 depth 24 rr 75 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 960 depth 24 rr 85 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 24 rr 60 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 24 rr 70 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 24 rr 72 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 24 rr 75 bp 5120
+Mar 18 03:31:25: MKS|  1280 by 1024 depth 24 rr 85 bp 5120
+Mar 18 03:31:25: MKS|  1360 by 768 depth 24 rr 60 bp 5440
+Mar 18 03:31:25: MKS|  1360 by 768 depth 24 rr 70 bp 5440
+Mar 18 03:31:25: MKS|  1360 by 768 depth 24 rr 72 bp 5440
+Mar 18 03:31:25: MKS|  1360 by 768 depth 24 rr 75 bp 5440
+Mar 18 03:31:25: MKS|  1360 by 768 depth 24 rr 85 bp 5440
+Mar 18 03:31:25: MKS|  1600 by 900 depth 24 rr 60 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 900 depth 24 rr 70 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 900 depth 24 rr 72 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 900 depth 24 rr 75 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 900 depth 24 rr 85 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 24 rr 60 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 24 rr 70 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 24 rr 72 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 24 rr 75 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1024 depth 24 rr 85 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 24 rr 60 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 24 rr 65 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 24 rr 70 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 24 rr 72 bp 6400
+Mar 18 03:31:25: MKS|  1600 by 1200 depth 24 rr 75 bp 6400
+Mar 18 03:31:25: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:31:25: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\License.gsx.2.0-00
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Serial = 22940-XPE81-X2KE6-1AQ10
+Mar 18 03:31:25: VMX|   Name = Serge
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-0-0
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-1-0
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 1
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-1-1
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 1
+Mar 18 03:31:25: VMX|   MaxRunningVms = 1
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-1-2
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 1
+Mar 18 03:31:25: VMX|   MaxRunningVms = 2
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-16-0
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 16
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-2-0
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 2
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-2-1
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 2
+Mar 18 03:31:25: VMX|   MaxRunningVms = 1
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-2-2
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 2
+Mar 18 03:31:25: VMX|   MaxRunningVms = 2
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-2-4
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, LicenseVersion, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = Epoch, MaxHostCpus, MaxRunningVms
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2003
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   LicenseVersion = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   Epoch = 2003-5-1
+Mar 18 03:31:25: VMX|   MaxHostCpus = 2
+Mar 18 03:31:25: VMX|   MaxRunningVms = 4
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, LicenseVersion, LicenseType, Epoch, MaxHostCpus, MaxRunningVms
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-2-7
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 2
+Mar 18 03:31:25: VMX|   MaxRunningVms = 7
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-4-0
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 4
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-4-1
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 4
+Mar 18 03:31:25: VMX|   MaxRunningVms = 1
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-4-7
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 4
+Mar 18 03:31:25: VMX|   MaxRunningVms = 7
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-8-0
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 8
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, Epoch
+Mar 18 03:31:25: VMX|License HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\Dormant\License.gsx.2.0-8-1
+Mar 18 03:31:25: VMX|   StartFields = Cpt, ProductID, ProductType, LicenseType, Field2
+Mar 18 03:31:25: VMX|   Field2 = MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|   Cpt = COPYRIGHT (c) VMware, Inc. 1999-2002
+Mar 18 03:31:25: VMX|   ProductID = VMware GSX Server for Win32
+Mar 18 03:31:25: VMX|   ProductType = 2.0
+Mar 18 03:31:25: VMX|   LicenseType = Site
+Mar 18 03:31:25: VMX|   MaxHostCpus = 8
+Mar 18 03:31:25: VMX|   MaxRunningVms = 1
+Mar 18 03:31:25: VMX|   Epoch = 2002-4-17
+Mar 18 03:31:25: VMX|   EndField = Hash
+Mar 18 03:31:25: VMX|   Fields = Cpt, ProductID, ProductType, LicenseType, MaxHostCpus, MaxRunningVms, Epoch
+Mar 18 03:31:25: VMX|LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\License.gsx.2.0-00' 
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x00330000 size=0x000cd000 name=LIBEAY32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x00400000 size=0x00372000 name=vmware.exe
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x00780000 size=0x00027000 name=SSLEAY32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x011f0000 size=0x0002b000 name=msctfime.ime
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x51080000 size=0x00056000 name=DSOUND.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x62d80000 size=0x00009000 name=LPK.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x690d0000 size=0x0000c000 name=ntwrap.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x69200000 size=0x0016d000 name=vmxUI.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x69500000 size=0x000cd000 name=VMXMKSAX.OCX
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x70ad0000 size=0x000e6000 name=COMCTL32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71b70000 size=0x00033000 name=UxTheme.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71bb0000 size=0x00009000 name=WSOCK32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71bf0000 size=0x00008000 name=WS2HELP.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x71c00000 size=0x00018000 name=WS2_32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x722c0000 size=0x00028000 name=DINPUT.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x73010000 size=0x0005e000 name=USP10.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x73d20000 size=0x000f3000 name=MFC42.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x744c0000 size=0x00028000 name=Msimtf.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x744f0000 size=0x0004b000 name=MSCTF.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x748d0000 size=0x00008000 name=CFGMGR32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x75e60000 size=0x00022000 name=apphelp.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76290000 size=0x0001d000 name=IMM32.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x765a0000 size=0x00100000 name=SETUPAPI.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x766d0000 size=0x00009000 name=shfolder.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76aa0000 size=0x0002c000 name=WINMM.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76b70000 size=0x0000b000 name=PSAPI.DLL
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x76f50000 size=0x00013000 name=Secur32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x770e0000 size=0x0007d000 name=OLEAUT32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77160000 size=0x00124000 name=ole32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77290000 size=0x00049000 name=SHLWAPI.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77380000 size=0x007dd000 name=SHELL32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77b90000 size=0x00008000 name=VERSION.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77ba0000 size=0x00054000 name=MSVCRT.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77c00000 size=0x00044000 name=GDI32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77c50000 size=0x000a4000 name=RPCRT4.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77d00000 size=0x0008f000 name=USER32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77da0000 size=0x00090000 name=ADVAPI32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77e40000 size=0x000f4000 name=kernel32.dll
+Mar 18 03:31:25: VMX|GCFMI: DLL load=0x77f40000 size=0x000ba000 name=ntdll.dll
+Mar 18 03:31:25: VMX|GCFMI: reached kernel memory at 0x7fff0000
+Mar 18 03:31:25: VMX|GCFMI: free=0x4fb4e000, potential=0x4fe65000 start=0x0121b000
+Mar 18 03:31:25: VMX|Msg_Hint msg.vmx.guiavailable (not shown)
+Mar 18 03:31:26: UI|(UI) DeclareThread vmserverd module=34 source=0x800000
+Mar 18 03:31:27: UI|               Cube  C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:31:27: UI|UI: SetDisplayParams(view 0xD405D4, frame 0xD40604)
+Mar 18 03:31:27: UI|UI: end CVmxApp::LateInitInstance()
+Mar 18 03:31:27: VMX|(VMX) DeclareThread vmserverd module=34 source=0x800000
+Mar 18 03:31:28: VMX|IPC version negotiation version: VMX returning 2.1 to vmserverd
+Mar 18 03:31:28: VMX|IPC vmcontrol-temp version: VMX returning 9.11 to vmserverd that tried 9.11
+Mar 18 03:31:28: VMX|changing directory to C:\Work\Cube\VMWare\Cube\.
+Mar 18 03:31:28: VMX|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:31:28: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:31:28: VMX|VMX: changing state 2 from 1877 to 1878
+Mar 18 03:31:28: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:31:28: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:31:28: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:31:28: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:31:28: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:31:28: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:31:28: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:31:28: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:31:28: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:31:28: VMX|Initialized readahead: Threshold 8
+Mar 18 03:31:28: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:31:28: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:31:28: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:31:28: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:31:28: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:31:28: VMX|Initialized readahead: Threshold 16
+Mar 18 03:31:28: VMX|LOG failed to unlink log file 'C:\Documents and Settings\Administrator\Local Settings\Temp\vmware-Administrator-704.log': The process cannot access the file because it is being used by another process
+Mar 18 03:31:28: UI|LOG failed to unlink log file 'C:\Documents and Settings\Administrator\Local Settings\Temp\vmware-Administrator-704.log': The process cannot access the file because it is being used by another process
+Mar 18 03:31:28: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:31:28: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:31:28: UI|VMX(UI): changing state 2 from 1877 to 1878, nesting 0
+Mar 18 03:31:28: UI|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:31:28: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:31:31: VMX|PowerOn
+Mar 18 03:31:31: VMX|VMX: changing state 0 from 1870 to 1871
+Mar 18 03:31:31: UI|VMX(UI): changing state 0 from 1870 to 1871, nesting 0
+Mar 18 03:31:31: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:31:31: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:31:31: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:31:31: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:31:31: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:31:31: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:31:31: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:31:31: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:31:31: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:31:31: VMX|Initialized readahead: Threshold 8
+Mar 18 03:31:31: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:31:31: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:31:31: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:31:31: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:31:31: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:31:31: VMX|Initialized readahead: Threshold 16
+Mar 18 03:31:31: VMX|HOST Windows version 5.2, build 3790, platform 2, ""
+Mar 18 03:31:31: VMX|DICT --- USER PREFERENCES
+Mar 18 03:31:31: VMX|DICT        prefvmx.mru.config = 
+Mar 18 03:31:31: VMX|DICT     prefvmx.mru.suspended = 
+Mar 18 03:31:31: VMX|DICT --- USER DEFAULTS
+Mar 18 03:31:31: VMX|DICT --- HOST DEFAULTS
+Mar 18 03:31:31: VMX|DICT --- SITE DEFAULTS
+Mar 18 03:31:31: VMX|DICT --- COMMAND LINE
+Mar 18 03:31:31: VMX|DICT             gui.available = TRUE
+Mar 18 03:31:31: VMX|DICT --- CONFIGURATION
+Mar 18 03:31:31: VMX|DICT            config.version = 6
+Mar 18 03:31:31: VMX|DICT         virtualHW.version = 2
+Mar 18 03:31:31: VMX|DICT               displayName = Cube
+Mar 18 03:31:31: VMX|DICT                   guestOS = other
+Mar 18 03:31:31: VMX|DICT            ide0:0.present = TRUE
+Mar 18 03:31:31: VMX|DICT           ide0:0.fileName = fat16.vmdk
+Mar 18 03:31:31: VMX|DICT            ide1:0.present = TRUE
+Mar 18 03:31:31: VMX|DICT         ide1:0.deviceType = atapi-cdrom
+Mar 18 03:31:31: VMX|DICT           ide1:0.fileName = auto detect
+Mar 18 03:31:31: VMX|DICT                   memsize = 32
+Mar 18 03:31:31: VMX|DICT         ethernet0.present = TRUE
+Mar 18 03:31:31: VMX|DICT             uuid.location = 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:31:31: VMX|DICT                      draw = gdi
+Mar 18 03:31:31: VMX|DICT         RemoteDisplay.bpp = 24
+Mar 18 03:31:31: VMX|DICT       RemoteDisplay.depth = 24
+Mar 18 03:31:31: VMX|DICT                     debug = FALSE
+Mar 18 03:31:31: VMX|DICT            ide0:1.present = TRUE
+Mar 18 03:31:31: VMX|DICT         ide0:1.deviceType = rawDisk
+Mar 18 03:31:31: VMX|DICT           ide0:1.fileName = Other (3).raw
+Mar 18 03:31:31: VMX|DICT         ide0:0.deviceType = ata-hardDisk
+Mar 18 03:31:31: VMX|DICT      disable_acceleration = FALSE
+Mar 18 03:31:31: VMX|DICT              localConsole = TRUE
+Mar 18 03:31:31: VMX|DICT          floppy0.fileType = file
+Mar 18 03:31:31: VMX|DICT          floppy0.fileName = C:\Work\Cube\flop.img
+Mar 18 03:31:31: VMX|DICT --- USER DEFAULTS
+Mar 18 03:31:31: VMX|DICT --- HOST DEFAULTS
+Mar 18 03:31:31: VMX|DICT --- SITE DEFAULTS
+Mar 18 03:31:31: VMX|DICT --- GLOBAL SETTINGS
+Mar 18 03:31:31: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:31:31: VMX|MStat: Creating Stat vm.cpuusage
+Mar 18 03:31:31: VMX|MStat: Creating Stat vm.ram
+Mar 18 03:31:31: VMX|MStat: Creating Stat vm.uptime
+Mar 18 03:31:31: VMX|GuestOSId = 0x500a 
+Mar 18 03:31:31: VMX|GetSystemTimeAdjustment returned unknown clockInterval 100144
+Mar 18 03:31:31: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:31:31: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:31:31: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:31:31: VMX|LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\License.gsx.2.0-00' 
+Mar 18 03:31:31: VMX|WSSCAN: reserved mem (in MB) min=32 max=384 reserved=384
+        hostMem=512 maxAllowedAll=512 maxAllowedVM=2000
+        totOverhead=16 checkMemory=1
+Mar 18 03:31:31: VMX|WSSCAN: used rec mem (in MB) 384
+Mar 18 03:31:31: VMX|PHYSMEM: TryAddRegion 0
+Mar 18 03:31:31: VMX|PHYSMEM: TryAddRegion 1
+Mar 18 03:31:31: VMX|PHYSMEM: TryAddRegion 2
+Mar 18 03:31:31: VMX|APIC: Local APIC at 0xfee00000
+Mar 18 03:31:31: VMX|KHZEstimate 2393000
+Mar 18 03:31:31: VMX|MHZEstimate 2393
+Mar 18 03:31:31: VMX|NumVCPUs 1
+Mar 18 03:31:31: VMX|(VMX) DeclareThread Floppy module=16 source=0x200000
+Mar 18 03:31:31: *NULL*(SELF) DeclareThread Floppy module=16 source=0x200000
+Mar 18 03:31:31: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:31:31: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:31:31: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:31:31: Floppy|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:31:31: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:31:31: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:31:31: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:31:31: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:31:31: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:31:31: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:31:31: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:31:31: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:31:31: VMX|Initialized readahead: Threshold 8
+Mar 18 03:31:31: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:31:31: VMX|(VMX) DeclareThread ide0:0 module=16 source=0x200000
+Mar 18 03:31:31: *NULL*(SELF) DeclareThread ide0:0 module=16 source=0x200000
+Mar 18 03:31:31: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:31:31: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: ide0:0|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:31:31: ide0:0|DISK: OPEN ide:0:0 'fat16.vmdk' persistent
+Mar 18 03:31:31: ide0:0|Disk: Open(fat16.vmdk) flags=0xf=poweron|writeable|lock|writelock.
+Mar 18 03:31:31: ide0:0|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:31:31: ide0:0|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:31:31: ide0:0|COWDisk_OpenFromP(fat16.vmdk) flags 0xf=poweron|writeable|lock|writelock diskNum=0
+Mar 18 03:31:31: ide0:0|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:31:31: ide0:0|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:31:31: ide0:0|Virtual disk fat16.vmdk is checkcapable and consistent
+Mar 18 03:31:31: ide0:0|COWDISK: LEAFCACHE initialized by PID 4044 threadNum 1 with 32 entries
+Mar 18 03:31:31: ide0:0|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:31:31: ide0:0|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:31:31: ide0:0|Initialized readahead: Threshold 8
+Mar 18 03:31:31: ide0:0|DISK: OPEN 'fat16.vmdk' Geo (2080/16/63) BIOS Geo (0/0/0)
+Mar 18 03:31:31: VMX|MStat: Creating Stat ide0:0.bytesread
+Mar 18 03:31:31: VMX|MStat: Creating Stat ide0:0.byteswritten
+Mar 18 03:31:31: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:31:31: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:31:31: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:31:31: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:31:31: VMX|Initialized readahead: Threshold 16
+Mar 18 03:31:31: VMX|(VMX) DeclareThread ide0:1 module=16 source=0x200000
+Mar 18 03:31:31: *NULL*(SELF) DeclareThread ide0:1 module=16 source=0x200000
+Mar 18 03:31:31: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:31:31: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: ide0:1|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:31:31: ide0:1|DISK: OPEN ide:0:1 'Other (3).raw' persistent
+Mar 18 03:31:31: ide0:1|Disk: Open(Other (3).raw) flags=0xf=poweron|writeable|lock|writelock.
+Mar 18 03:31:31: ide0:1|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:31:31: ide0:1|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:31:31: ide0:1|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:31:31: ide0:1|Initialized readahead: Threshold 16
+Mar 18 03:31:31: ide0:1|DISK: OPEN 'Other (3).raw' Geo (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:31:31: VMX|MStat: Creating Stat ide0:1.bytesread
+Mar 18 03:31:31: VMX|MStat: Creating Stat ide0:1.byteswritten
+Mar 18 03:31:31: VMX|(VMX) DeclareThread ide1:0 module=16 source=0x200000
+Mar 18 03:31:31: *NULL*(SELF) DeclareThread ide1:0 module=16 source=0x200000
+Mar 18 03:31:31: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:31:31: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:31:31: ide1:0|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:31:31: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:31:31: ide1:0|ATAPI_CDROM: cdrom.modeSenseInterval=8
+Mar 18 03:31:31: VMX|MStat: Creating Stat ide1:0.bytesread
+Mar 18 03:31:31: VMX|MStat: Creating Stat ide1:0.byteswritten
+Mar 18 03:31:31: VMX|MStat: Creating Stat vm.heartbeat
+Mar 18 03:31:31: VMX|TOOLS INSTALL initializing state to IDLE on power on.
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000010).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:31:31: MKS|VGAWIN attrs change: depth 15 r 0x00007c00 g 0x000003e0 b 0x0000001f
+Mar 18 03:31:31: VMX|PHYSMEM: TryAddRegion 3
+Mar 18 03:31:31: VMX|Using unified VGA.
+Mar 18 03:31:31: VMX|SVGA frame buffer address 0x7efc0000
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|SVGA phys sizes: 1600x1200x32 maxPitch 0 offset 0 fb 0x00753000/0x00753000
+Mar 18 03:31:31: VMX|SVGA frame buffer size 0x00753000/0x00753000/0x00753000
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000008).
+Mar 18 03:31:31: VMX|USB: Initializing UHCI host controller
+Mar 18 03:31:31: VMX|USB: Initializing USB Generic backend
+Mar 18 03:31:31: VMX|VNET: receive cluster size is 1, threshold is 150
+Mar 18 03:31:31: VMX|VNET: send cluster threshold is 100, size = 5 recalcInterval is 2 ticks
+Mar 18 03:31:31: VMX|MStat: Creating Stat ethernet0.bytesread
+Mar 18 03:31:31: VMX|MStat: Creating Stat ethernet0.byteswritten
+Mar 18 03:31:31: VMX|VNET: request IP-based MAC address 58:8e:47
+Mar 18 03:31:31: VMX|Initial etheraddr 00:50:56:58:8e:47
+Mar 18 03:31:31: VMX|VirtualProtect MapProtectMem(0x14d1000,0x1000) returns 0x1e7
+Mar 18 03:31:31: VMX|Can't read-only monitor pages #1
+Mar 18 03:31:31: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:31:31: VMX|PHYSMEM: DynAlloc 0: 0xffffffff + 1875 pages
+Mar 18 03:31:31: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:31:31: VMX|PHYSMEM: DynAlloc 1: 0xffffffff + 64 pages
+Mar 18 03:31:31: VMX|VMX_PowerOn: ModuleTable_PowerOn = 1
+Mar 18 03:31:31: VMX|VMX_PowerOn: Barrier_Last = 1
+Mar 18 03:31:31: VMX|VMX setting maximum IPC write buffers to 0 packets, 0 bytes
+Mar 18 03:31:31: VMX|APIC: Setting up interrupts
+Mar 18 03:31:31: VMX|APIC: version = 0x14, max LVT = 5
+Mar 18 03:31:31: VMX|APIC: LDR = 0x0, DFR = 0xffffffff
+Mar 18 03:31:31: VMX|APIC: timer interrupt reg = 0x10000
+Mar 18 03:31:31: VMX|APIC: spurious interrupt reg = 0x10f
+Mar 18 03:31:31: VMX|APIC: local interrupt 0 reg = 0x700
+Mar 18 03:31:31: VMX|APIC: local interrupt 1 reg = 0x400
+Mar 18 03:31:31: VMX|APIC: local error reg = 0x10000
+Mar 18 03:31:31: VMX|APIC: performance counter reg = 0x0
+Mar 18 03:31:31: VMX|Monitor initalized: RELEASEbuild-5336 (gcc)
+Mar 18 03:31:31: VMX|Monitor controlFlag: 0x24000200:0x40
+Mar 18 03:31:31: VMX|cpuFeatures = 0x31fe01
+Mar 18 03:31:31: VMX|FPU_Init  cr0=0x8001003b
+Mar 18 03:31:31: VMX|VIDE: capacity: 2096640 lba_capacity: 2096640
+Mar 18 03:31:31: VMX|VIDE: (0x1f0) Drive 0 InitDrive cyl/hd/sec=2080/16/63 
+Mar 18 03:31:31: VMX|VIDE: capacity: 16514064 lba_capacity: 78177792
+Mar 18 03:31:31: VMX|VIDE: (0x1f0) Drive 1 InitDrive cyl/hd/sec=16383/16/63 
+Mar 18 03:31:31: VMX|Enabling VNet fast IRQ handling
+Mar 18 03:31:31: VMX|0:0:0: vendor 0x1106 device 0x3168 class 0x6 sub-class 0x0 intLine 0 vector 48
+Mar 18 03:31:31: VMX|0:1:0: vendor 0x1106 device 0xb168 class 0x6 sub-class 0x4 intLine 0 vector 48
+Mar 18 03:31:31: VMX|0:16:0: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 11 vector 59
+Mar 18 03:31:31: VMX|0:16:1: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 11 vector 59
+Mar 18 03:31:31: VMX|0:16:2: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 10 vector 58
+Mar 18 03:31:31: VMX|0:16:3: vendor 0x1106 device 0x3104 class 0xc sub-class 0x3 intLine 5 vector 53
+Mar 18 03:31:31: VMX|0:17:0: vendor 0x1106 device 0x3177 class 0x6 sub-class 0x1 intLine 0 vector 48
+Mar 18 03:31:31: VMX|0:17:1: vendor 0x1106 device 0x571 class 0x1 sub-class 0x1 intLine 255 vector 0
+Mar 18 03:31:31: VMX|0:18:0: vendor 0x1106 device 0x3065 class 0x2 sub-class 0x0 intLine 11 vector 59
+Mar 18 03:31:31: VMX|1:0:0: vendor 0x10de device 0x201 class 0x3 sub-class 0x0 intLine 11 vector 59
+Mar 18 03:31:31: VMX|Unconflicting NIC IRQs are 59 
+Mar 18 03:31:31: VMX|VNET: Enabling Notification for ethernet0
+Mar 18 03:31:31: VMX|VNET: Notification Enabled for ethernet0
+Mar 18 03:31:31: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:31: MKS|VGAWIN attrs change: depth 24 r 0x00ff0000 g 0x0000ff00 b 0x000000ff
+Mar 18 03:31:31: ide1:0|Winnt_CDROM: Detected a CD-ROM of 'F:\'
+Mar 18 03:31:31: Floppy|FloppyImage: Locking of Images not yet supported
+Mar 18 03:31:31: VMX|VMX: changing state 0 from 1871 to 1872
+Mar 18 03:31:31: UI|VMX(UI): changing state 0 from 1871 to 1872, nesting 0
+Mar 18 03:31:32: VMX|sz=2952112
+Mar 18 03:31:32: VMX|SVGA: Registering MemSpace at 0xfc000000(0x7efc0000) and 0xfb000000(0x7ffc0000)
+Mar 18 03:31:32: VMX|PCI SVGA: Asked to map the SVGA OPROM at 0xfe800000 (size 32768 bytes)
+Mar 18 03:31:32: VMX|OPROM: mapping .vbios: 0xfe800000-0xfe808000
+Mar 18 03:31:32: VMX|OPROM: allocating 8000 bytes for .vbios
+Mar 18 03:31:32: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:31:32: VMX|PHYSMEM: DynAlloc 2: 0xfe800 + 8 pages
+Mar 18 03:31:32: VMX|OPROM: loading .vbios
+Mar 18 03:31:32: VMX|PCI SVGA: Asked to unmap the SVGA OPROM
+Mar 18 03:31:32: VMX|OPROM: smashing .vbios
+Mar 18 03:31:32: VMX|SVGA: Unregistering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:31:32: VMX|SVGA: Registering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:31:32: VMX|PCI SVGA: Asked to map the SVGA OPROM at 0xfe800000 (size 32768 bytes)
+Mar 18 03:31:32: VMX|OPROM: mapping .vbios: 0xfe800000-0xfe808000
+Mar 18 03:31:32: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:31:32: VMX|OPROM: loading .vbios
+Mar 18 03:31:32: VMX|PCI SVGA: Asked to unmap the SVGA OPROM
+Mar 18 03:31:32: VMX|OPROM: smashing .vbios
+Mar 18 03:31:32: VMX|SVGA: Unregistering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:31:32: VMX|SVGA: Registering IOSpace at 0x10a0 (0x0000)
+Mar 18 03:31:32: VMX|SVGA: Registering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:31:33: MKS|GDIInfo_QueryMode: 648x224 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:33: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:31:33: VMX|VBE call 0x4f02 bx 0x0007 cx 0x03d5 es 0x0078 di 0x0000
+Mar 18 03:31:33: VMX|VBE: disabled; ignoring call
+Mar 18 03:31:33: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:33: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:31:33: VMX|VBE call 0x4f02 bx 0x0003 cx 0x03c2 es 0x0078 di 0x0000
+Mar 18 03:31:33: VMX|VBE: disabled; ignoring call
+Mar 18 03:31:33: VMX|VBE call 0x4f02 bx 0x0012 cx 0x03b5 es 0x01c1 di 0x7b96
+Mar 18 03:31:33: VMX|VBE: disabled; ignoring call
+Mar 18 03:31:33: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:33: VMX|UHCI: HCReset
+Mar 18 03:31:35: VMX|VIDE: Curr CHS info cyls: 2080 heads: 16 sects: 63 lba_cap: 2096640
+Mar 18 03:31:35: VMX|VIDE: Curr CHS info cyls: 16383 heads: 16 sects: 63 lba_cap: 78177792
+Mar 18 03:31:35: VMX|VBE call 0x4f00 bx 0x0b98 cx 0x0200 es 0x7f80 di 0x005a
+Mar 18 03:31:35: VMX|VBE: disabled; ignoring call
+Mar 18 03:31:35: VMX|location-UUID is 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:31:35: VMX|BIOS-UUID is 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:31:37: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0317 es 0x8f67 di 0x31aa
+Mar 18 03:31:37: VMX|VBE: disabled; ignoring call
+Mar 18 03:31:37: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000020).
+Mar 18 03:31:37: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:31:37: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0000 es 0x0000 di 0x0000
+Mar 18 03:31:37: VMX|VBE: disabled; ignoring call
+Mar 18 03:31:38: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0300 es 0x3200 di 0x0027
+Mar 18 03:31:38: VMX|VBE: disabled; ignoring call
+Mar 18 03:32:05: UI|Msg_Hint msg.gui.powerOffButton (not shown)
+Mar 18 03:32:05: VMX|Disabling fast IRQ handling for VNets
+Mar 18 03:32:05: VMX|OPROM: ignoring unmap of .vbios: already unmapped
+Mar 18 03:32:05: ide0:0|COWDISK: The virtual disk fat16.vmdk is clean at close.
+Mar 18 03:32:05: ide0:0|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:32:05: ide0:0|COWDISK: The virtual disk fat16.vmdk is clean at close.
+Mar 18 03:32:05: ide0:0|Performing header analysis on fat16.vmdk...
+Mar 18 03:32:05: ide0:0|Invalid offset of next sector to allocate: 8841 (should be 15024968)
+Mar 18 03:32:05: ide0:0|Performing block map analysis on fat16.vmdk...
+Mar 18 03:32:05: ide0:0|The size of the file "fat16.vmdk" is 8841 sectors.
+Mar 18 03:32:05: ide0:0|
+Mar 18 03:32:05: VMX|OPROM: OpromPowerOff
+Mar 18 03:32:05: Floppy|FloppyImage: Unlocking of Images not yet supported
+Mar 18 03:32:05: VMX|AIOPowerOff ide1:0
+Mar 18 03:32:05: ide1:0|AIOSlave: ide1:0 exiting cleanly.
+Mar 18 03:32:05: ide1:0|IPC_exit: disconnecting all threads
+Mar 18 03:32:05: ide1:0|ide1:0 IPC closed the connection with thread VMX (03849CF0)
+Mar 18 03:32:05: ide1:0|ide1:0 IPC The "VMX" thread exited cleanly.
+Mar 18 03:32:05: VMX|VMX IPC closed the connection with thread ide1:0 (00162B58)
+Mar 18 03:32:05: VMX|AIOPowerOff ide0:1
+Mar 18 03:32:05: ide0:1|AIOSlave: ide0:1 exiting cleanly.
+Mar 18 03:32:05: ide0:1|IPC_exit: disconnecting all threads
+Mar 18 03:32:05: ide0:1|ide0:1 IPC closed the connection with thread VMX (037CDC90)
+Mar 18 03:32:05: ide0:1|ide0:1 IPC The "VMX" thread exited cleanly.
+Mar 18 03:32:05: VMX|VMX IPC closed the connection with thread ide0:1 (00162AE0)
+Mar 18 03:32:05: VMX|AIOPowerOff ide0:0
+Mar 18 03:32:05: ide0:0|AIOSlave: ide0:0 exiting cleanly.
+Mar 18 03:32:05: ide0:0|IPC_exit: disconnecting all threads
+Mar 18 03:32:05: ide0:0|ide0:0 IPC closed the connection with thread VMX (03751C30)
+Mar 18 03:32:05: ide0:0|ide0:0 IPC The "VMX" thread exited cleanly.
+Mar 18 03:32:05: VMX|VMX IPC closed the connection with thread ide0:0 (00162A68)
+Mar 18 03:32:05: VMX|AIOPowerOff Floppy
+Mar 18 03:32:05: Floppy|AIOSlave: Floppy exiting cleanly.
+Mar 18 03:32:05: Floppy|IPC_exit: disconnecting all threads
+Mar 18 03:32:05: Floppy|Floppy IPC closed the connection with thread VMX (0104D340)
+Mar 18 03:32:05: Floppy|Floppy IPC The "VMX" thread exited cleanly.
+Mar 18 03:32:05: VMX|VMX IPC closed the connection with thread Floppy (001629F0)
+Mar 18 03:32:05: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:32:05: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:32:05: VMX|VMX: changing state 0 from 1872 to 1870
+Mar 18 03:32:05: UI|VMX(UI): changing state 0 from 1872 to 1870, nesting 0
+Mar 18 03:32:18: VMX|VMX IPC closed the connection with thread vmserverd (00162978)
+Mar 18 03:32:18: VMX|changing directory to .\.
+Mar 18 03:32:18: VMX|Config file: (null)
+Mar 18 03:32:18: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:32:18: VMX|VMX: changing state 2 from 1878 to 1877
+Mar 18 03:32:18: VMX|DICT: Set ConfigVersion to 6
+Mar 18 03:32:18: VMX|DICT: Set HWVersion to 2
+Mar 18 03:32:18: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:32:18: VMX|VMX: changing state 2 from 1877 to 1878
+Mar 18 03:32:18: UI|VMX(UI): changing state 2 from 1878 to 1877, nesting 0
+Mar 18 03:32:18: UI|Config file: (null)
+Mar 18 03:32:18: UI|VMX(UI): changing state 2 from 1877 to 1878, nesting 0
+Mar 18 03:32:19: VMX|(VMX) DeclareThread vmserverd module=34 source=0x800000
+Mar 18 03:32:19: VMX|changing directory to C:\Work\Cube\VMWare\Cube\.
+Mar 18 03:32:19: VMX|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:32:19: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:32:19: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:32:19: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:32:19: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:32:19: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:32:19: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:32:19: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:32:19: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:32:19: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:32:19: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:32:19: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:32:19: VMX|Initialized readahead: Threshold 8
+Mar 18 03:32:19: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:32:19: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:32:19: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:32:19: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:32:19: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:32:19: VMX|Initialized readahead: Threshold 16
+Mar 18 03:32:19: VMX|IPC version negotiation version: VMX returning 2.1 to vmserverd
+Mar 18 03:32:19: VMX|IPC vmcontrol-temp version: VMX returning 9.11 to vmserverd that tried 9.11
+Mar 18 03:32:19: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:32:19: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:32:19: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:32:19: UI|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:32:19: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:32:32: UI|Msg_Question: msg.gui.guestMemoryToHighLimitCheck
+Mar 18 03:32:54: UI|Msg_Question: msg.gui.guestMemoryToHighLimitCheck reply=1
+Mar 18 03:32:57: UI|Msg_Question: msg.gui.guestMemoryToHighLimitCheck
+Mar 18 03:32:58: UI|Msg_Question: msg.gui.guestMemoryToHighLimitCheck reply=0
+Mar 18 03:32:58: VMX|VMX: changing state 2 from 1878 to 1879
+Mar 18 03:32:58: UI|VMX(UI): changing state 2 from 1878 to 1879, nesting 0
+Mar 18 03:32:58: VMX|changing directory to C:\Work\Cube\VMWare\Cube\.
+Mar 18 03:32:58: VMX|VMX: changing state 2 from 1879 to 1878
+Mar 18 03:32:58: UI|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:32:58: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:32:58: UI|VMX(UI): changing state 2 from 1879 to 1878, nesting 0
+Mar 18 03:32:58: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:32:59: VMX|PREF Reloading before write.
+Mar 18 03:33:00: VMX|PowerOn
+Mar 18 03:33:00: VMX|VMX: changing state 0 from 1870 to 1871
+Mar 18 03:33:00: UI|VMX(UI): changing state 0 from 1870 to 1871, nesting 0
+Mar 18 03:33:00: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:33:00: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:00: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:00: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:33:00: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:00: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:00: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:33:00: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:00: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:00: VMX|Initialized readahead: Threshold 8
+Mar 18 03:33:00: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:33:00: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:33:00: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:00: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:00: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:00: VMX|Initialized readahead: Threshold 16
+Mar 18 03:33:00: VMX|HOST Windows version 5.2, build 3790, platform 2, ""
+Mar 18 03:33:00: VMX|DICT --- USER PREFERENCES
+Mar 18 03:33:00: VMX|DICT        prefvmx.mru.config = 
+Mar 18 03:33:00: VMX|DICT     prefvmx.mru.suspended = 
+Mar 18 03:33:00: VMX|DICT  prefvmx.checkMemoryLimit = FALSE
+Mar 18 03:33:00: VMX|DICT --- USER DEFAULTS
+Mar 18 03:33:00: VMX|DICT --- HOST DEFAULTS
+Mar 18 03:33:00: VMX|DICT --- SITE DEFAULTS
+Mar 18 03:33:00: VMX|DICT --- COMMAND LINE
+Mar 18 03:33:00: VMX|DICT             gui.available = TRUE
+Mar 18 03:33:00: VMX|DICT --- CONFIGURATION
+Mar 18 03:33:00: VMX|DICT            config.version = 6
+Mar 18 03:33:00: VMX|DICT         virtualHW.version = 2
+Mar 18 03:33:00: VMX|DICT               displayName = Cube
+Mar 18 03:33:00: VMX|DICT                   guestOS = other
+Mar 18 03:33:00: VMX|DICT            ide0:0.present = TRUE
+Mar 18 03:33:00: VMX|DICT           ide0:0.fileName = fat16.vmdk
+Mar 18 03:33:00: VMX|DICT            ide1:0.present = TRUE
+Mar 18 03:33:00: VMX|DICT         ide1:0.deviceType = atapi-cdrom
+Mar 18 03:33:00: VMX|DICT           ide1:0.fileName = auto detect
+Mar 18 03:33:00: VMX|DICT                   memsize = 1024
+Mar 18 03:33:00: VMX|DICT         ethernet0.present = TRUE
+Mar 18 03:33:00: VMX|DICT             uuid.location = 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:33:00: VMX|DICT                      draw = gdi
+Mar 18 03:33:00: VMX|DICT         RemoteDisplay.bpp = 24
+Mar 18 03:33:00: VMX|DICT       RemoteDisplay.depth = 24
+Mar 18 03:33:00: VMX|DICT                     debug = FALSE
+Mar 18 03:33:00: VMX|DICT            ide0:1.present = TRUE
+Mar 18 03:33:00: VMX|DICT         ide0:1.deviceType = rawDisk
+Mar 18 03:33:00: VMX|DICT           ide0:1.fileName = Other (3).raw
+Mar 18 03:33:00: VMX|DICT         ide0:0.deviceType = ata-hardDisk
+Mar 18 03:33:00: VMX|DICT      disable_acceleration = FALSE
+Mar 18 03:33:00: VMX|DICT              localConsole = TRUE
+Mar 18 03:33:00: VMX|DICT          floppy0.fileType = file
+Mar 18 03:33:00: VMX|DICT          floppy0.fileName = C:\Work\Cube\flop.img
+Mar 18 03:33:00: VMX|DICT --- USER DEFAULTS
+Mar 18 03:33:00: VMX|DICT --- HOST DEFAULTS
+Mar 18 03:33:00: VMX|DICT --- SITE DEFAULTS
+Mar 18 03:33:00: VMX|DICT --- GLOBAL SETTINGS
+Mar 18 03:33:00: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:33:00: VMX|MStat: Creating Stat vm.cpuusage
+Mar 18 03:33:00: VMX|MStat: Creating Stat vm.ram
+Mar 18 03:33:00: VMX|MStat: Creating Stat vm.uptime
+Mar 18 03:33:00: VMX|GuestOSId = 0x500a 
+Mar 18 03:33:00: VMX|GetSystemTimeAdjustment returned unknown clockInterval 100144
+Mar 18 03:33:00: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:33:00: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:33:00: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:33:00: VMX|LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\License.gsx.2.0-00' 
+Mar 18 03:33:00: VMX|WSSCAN: reserved mem (in MB) min=32 max=384 reserved=384
+        hostMem=512 maxAllowedAll=512 maxAllowedVM=2000
+        totOverhead=16 checkMemory=0
+Mar 18 03:33:00: VMX|WSSCAN: used rec mem (in MB) 384
+Mar 18 03:33:00: VMX|WSSCAN: Not enough physical memory: req=262144 avail=98304 overhead=4096 maxRespage=98304
+Mar 18 03:33:00: VMX|WSSCAN: Not enough physical (in MB): nbVM=1 hostMem=512 checkMemory=0
+        needed=368 neededRes=1040 maxAllowed=512
+Mar 18 03:33:00: VMX|Msg_Hint msg.monitorInit.mem.notEnoughMemGuestMemVal (not shown)
+Mar 18 03:33:00: VMX|PHYSMEM: TryAddRegion 0
+Mar 18 03:33:00: VMX|PHYSMEM: TryAddRegion 1
+Mar 18 03:33:00: VMX|PHYSMEM: TryAddRegion 2
+Mar 18 03:33:00: VMX|APIC: Local APIC at 0xfee00000
+Mar 18 03:33:00: VMX|KHZEstimate 2393000
+Mar 18 03:33:00: VMX|MHZEstimate 2393
+Mar 18 03:33:00: VMX|NumVCPUs 1
+Mar 18 03:33:00: VMX|(VMX) DeclareThread Floppy module=16 source=0x200000
+Mar 18 03:33:00: *NULL*(SELF) DeclareThread Floppy module=16 source=0x200000
+Mar 18 03:33:00: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:33:00: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:00: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:00: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:33:00: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:00: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:00: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:00: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:00: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:33:00: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: Floppy|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:00: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:00: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:00: VMX|Initialized readahead: Threshold 8
+Mar 18 03:33:00: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:33:00: VMX|(VMX) DeclareThread ide0:0 module=16 source=0x200000
+Mar 18 03:33:00: *NULL*(SELF) DeclareThread ide0:0 module=16 source=0x200000
+Mar 18 03:33:00: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:00: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: ide0:0|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:00: ide0:0|DISK: OPEN ide:0:0 'fat16.vmdk' persistent
+Mar 18 03:33:00: ide0:0|Disk: Open(fat16.vmdk) flags=0xf=poweron|writeable|lock|writelock.
+Mar 18 03:33:00: ide0:0|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:00: ide0:0|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:00: ide0:0|COWDisk_OpenFromP(fat16.vmdk) flags 0xf=poweron|writeable|lock|writelock diskNum=0
+Mar 18 03:33:00: ide0:0|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:00: ide0:0|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:00: ide0:0|Virtual disk fat16.vmdk is checkcapable and consistent
+Mar 18 03:33:00: ide0:0|COWDISK: LEAFCACHE initialized by PID 3376 threadNum 1 with 32 entries
+Mar 18 03:33:00: ide0:0|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:00: ide0:0|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:00: ide0:0|Initialized readahead: Threshold 8
+Mar 18 03:33:00: ide0:0|DISK: OPEN 'fat16.vmdk' Geo (2080/16/63) BIOS Geo (0/0/0)
+Mar 18 03:33:00: VMX|MStat: Creating Stat ide0:0.bytesread
+Mar 18 03:33:00: VMX|MStat: Creating Stat ide0:0.byteswritten
+Mar 18 03:33:00: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:33:00: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:00: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:00: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:00: VMX|Initialized readahead: Threshold 16
+Mar 18 03:33:00: VMX|(VMX) DeclareThread ide0:1 module=16 source=0x200000
+Mar 18 03:33:00: *NULL*(SELF) DeclareThread ide0:1 module=16 source=0x200000
+Mar 18 03:33:00: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:00: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: ide0:1|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:00: ide0:1|DISK: OPEN ide:0:1 'Other (3).raw' persistent
+Mar 18 03:33:00: ide0:1|Disk: Open(Other (3).raw) flags=0xf=poweron|writeable|lock|writelock.
+Mar 18 03:33:00: ide0:1|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:00: ide0:1|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:00: ide0:1|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:00: ide0:1|Initialized readahead: Threshold 16
+Mar 18 03:33:00: ide0:1|DISK: OPEN 'Other (3).raw' Geo (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:00: VMX|MStat: Creating Stat ide0:1.bytesread
+Mar 18 03:33:00: VMX|MStat: Creating Stat ide0:1.byteswritten
+Mar 18 03:33:00: VMX|(VMX) DeclareThread ide1:0 module=16 source=0x200000
+Mar 18 03:33:00: *NULL*(SELF) DeclareThread ide1:0 module=16 source=0x200000
+Mar 18 03:33:00: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:00: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:00: ide1:0|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:00: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:00: ide1:0|ATAPI_CDROM: cdrom.modeSenseInterval=8
+Mar 18 03:33:00: VMX|MStat: Creating Stat ide1:0.bytesread
+Mar 18 03:33:00: VMX|MStat: Creating Stat ide1:0.byteswritten
+Mar 18 03:33:00: VMX|MStat: Creating Stat vm.heartbeat
+Mar 18 03:33:00: VMX|TOOLS INSTALL initializing state to IDLE on power on.
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000010).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:00: MKS|VGAWIN attrs change: depth 15 r 0x00007c00 g 0x000003e0 b 0x0000001f
+Mar 18 03:33:00: VMX|PHYSMEM: TryAddRegion 3
+Mar 18 03:33:00: VMX|Using unified VGA.
+Mar 18 03:33:00: VMX|SVGA frame buffer address 0x7efc0000
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|SVGA phys sizes: 1600x1200x32 maxPitch 0 offset 0 fb 0x00753000/0x00753000
+Mar 18 03:33:00: VMX|SVGA frame buffer size 0x00753000/0x00753000/0x00753000
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:00: VMX|USB: Initializing UHCI host controller
+Mar 18 03:33:00: VMX|USB: Initializing USB Generic backend
+Mar 18 03:33:00: VMX|VNET: receive cluster size is 1, threshold is 150
+Mar 18 03:33:00: VMX|VNET: send cluster threshold is 100, size = 5 recalcInterval is 2 ticks
+Mar 18 03:33:00: VMX|MStat: Creating Stat ethernet0.bytesread
+Mar 18 03:33:00: VMX|MStat: Creating Stat ethernet0.byteswritten
+Mar 18 03:33:00: VMX|VNET: request IP-based MAC address 58:8e:47
+Mar 18 03:33:00: VMX|Initial etheraddr 00:50:56:58:8e:47
+Mar 18 03:33:00: VMX|VirtualProtect MapProtectMem(0x14f1000,0x1000) returns 0x1e7
+Mar 18 03:33:00: VMX|Can't read-only monitor pages #1
+Mar 18 03:33:00: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:00: VMX|PHYSMEM: DynAlloc 0: 0xffffffff + 1875 pages
+Mar 18 03:33:00: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:00: VMX|PHYSMEM: DynAlloc 1: 0xffffffff + 64 pages
+Mar 18 03:33:00: VMX|VMX_PowerOn: ModuleTable_PowerOn = 1
+Mar 18 03:33:00: VMX|VMX_PowerOn: Barrier_Last = 1
+Mar 18 03:33:00: VMX|VMX setting maximum IPC write buffers to 0 packets, 0 bytes
+Mar 18 03:33:00: VMX|APIC: Setting up interrupts
+Mar 18 03:33:00: VMX|APIC: version = 0x14, max LVT = 5
+Mar 18 03:33:00: VMX|APIC: LDR = 0x0, DFR = 0xffffffff
+Mar 18 03:33:00: VMX|APIC: timer interrupt reg = 0x10000
+Mar 18 03:33:00: VMX|APIC: spurious interrupt reg = 0x10f
+Mar 18 03:33:00: VMX|APIC: local interrupt 0 reg = 0x700
+Mar 18 03:33:00: VMX|APIC: local interrupt 1 reg = 0x400
+Mar 18 03:33:00: VMX|APIC: local error reg = 0x10000
+Mar 18 03:33:00: VMX|APIC: performance counter reg = 0x0
+Mar 18 03:33:00: VMX|Monitor initalized: RELEASEbuild-5336 (gcc)
+Mar 18 03:33:00: VMX|Monitor controlFlag: 0x24000200:0x40
+Mar 18 03:33:01: VMX|cpuFeatures = 0x31fe01
+Mar 18 03:33:01: VMX|FPU_Init  cr0=0x8001003b
+Mar 18 03:33:01: VMX|VIDE: capacity: 2096640 lba_capacity: 2096640
+Mar 18 03:33:01: VMX|VIDE: (0x1f0) Drive 0 InitDrive cyl/hd/sec=2080/16/63 
+Mar 18 03:33:01: VMX|VIDE: capacity: 16514064 lba_capacity: 78177792
+Mar 18 03:33:01: VMX|VIDE: (0x1f0) Drive 1 InitDrive cyl/hd/sec=16383/16/63 
+Mar 18 03:33:01: VMX|Enabling VNet fast IRQ handling
+Mar 18 03:33:01: VMX|0:0:0: vendor 0x1106 device 0x3168 class 0x6 sub-class 0x0 intLine 0 vector 48
+Mar 18 03:33:01: VMX|0:1:0: vendor 0x1106 device 0xb168 class 0x6 sub-class 0x4 intLine 0 vector 48
+Mar 18 03:33:01: VMX|0:16:0: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 11 vector 59
+Mar 18 03:33:01: VMX|0:16:1: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 11 vector 59
+Mar 18 03:33:01: VMX|0:16:2: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 10 vector 58
+Mar 18 03:33:01: VMX|0:16:3: vendor 0x1106 device 0x3104 class 0xc sub-class 0x3 intLine 5 vector 53
+Mar 18 03:33:01: VMX|0:17:0: vendor 0x1106 device 0x3177 class 0x6 sub-class 0x1 intLine 0 vector 48
+Mar 18 03:33:01: VMX|0:17:1: vendor 0x1106 device 0x571 class 0x1 sub-class 0x1 intLine 255 vector 0
+Mar 18 03:33:01: VMX|0:18:0: vendor 0x1106 device 0x3065 class 0x2 sub-class 0x0 intLine 11 vector 59
+Mar 18 03:33:01: VMX|1:0:0: vendor 0x10de device 0x201 class 0x3 sub-class 0x0 intLine 11 vector 59
+Mar 18 03:33:01: VMX|Unconflicting NIC IRQs are 59 
+Mar 18 03:33:01: VMX|VNET: Enabling Notification for ethernet0
+Mar 18 03:33:01: VMX|VNET: Notification Enabled for ethernet0
+Mar 18 03:33:01: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:01: MKS|VGAWIN attrs change: depth 24 r 0x00ff0000 g 0x0000ff00 b 0x000000ff
+Mar 18 03:33:01: ide1:0|Winnt_CDROM: Detected a CD-ROM of 'F:\'
+Mar 18 03:33:01: Floppy|FloppyImage: Locking of Images not yet supported
+Mar 18 03:33:01: VMX|VMX: changing state 0 from 1871 to 1872
+Mar 18 03:33:01: UI|VMX(UI): changing state 0 from 1871 to 1872, nesting 0
+Mar 18 03:33:01: VMX|sz=2907056
+Mar 18 03:33:02: VMX|SVGA: Registering MemSpace at 0xfc000000(0x7efc0000) and 0xfb000000(0x7ffc0000)
+Mar 18 03:33:02: VMX|PCI SVGA: Asked to map the SVGA OPROM at 0xfe800000 (size 32768 bytes)
+Mar 18 03:33:02: VMX|OPROM: mapping .vbios: 0xfe800000-0xfe808000
+Mar 18 03:33:02: VMX|OPROM: allocating 8000 bytes for .vbios
+Mar 18 03:33:02: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:02: VMX|PHYSMEM: DynAlloc 2: 0xfe800 + 8 pages
+Mar 18 03:33:02: VMX|OPROM: loading .vbios
+Mar 18 03:33:02: VMX|PCI SVGA: Asked to unmap the SVGA OPROM
+Mar 18 03:33:02: VMX|OPROM: smashing .vbios
+Mar 18 03:33:02: VMX|SVGA: Unregistering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:02: VMX|SVGA: Registering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:02: VMX|PCI SVGA: Asked to map the SVGA OPROM at 0xfe800000 (size 32768 bytes)
+Mar 18 03:33:02: VMX|OPROM: mapping .vbios: 0xfe800000-0xfe808000
+Mar 18 03:33:02: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:02: VMX|OPROM: loading .vbios
+Mar 18 03:33:02: VMX|PCI SVGA: Asked to unmap the SVGA OPROM
+Mar 18 03:33:02: VMX|OPROM: smashing .vbios
+Mar 18 03:33:02: VMX|SVGA: Unregistering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:02: VMX|SVGA: Registering IOSpace at 0x10a0 (0x0000)
+Mar 18 03:33:02: VMX|SVGA: Registering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:02: MKS|GDIInfo_QueryMode: 648x224 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:02: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:02: VMX|VBE call 0x4f02 bx 0x0007 cx 0x03d5 es 0x0078 di 0x0000
+Mar 18 03:33:02: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:02: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:02: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:02: VMX|VBE call 0x4f02 bx 0x0003 cx 0x03c2 es 0x0078 di 0x0000
+Mar 18 03:33:02: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:02: VMX|VBE call 0x4f02 bx 0x0012 cx 0x03b5 es 0x01c1 di 0x7b96
+Mar 18 03:33:02: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:02: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:02: VMX|UHCI: HCReset
+Mar 18 03:33:04: VMX|VIDE: Curr CHS info cyls: 2080 heads: 16 sects: 63 lba_cap: 2096640
+Mar 18 03:33:04: VMX|VIDE: Curr CHS info cyls: 16383 heads: 16 sects: 63 lba_cap: 78177792
+Mar 18 03:33:05: VMX|VBE call 0x4f00 bx 0x0b98 cx 0x0200 es 0x7f80 di 0x005a
+Mar 18 03:33:05: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:05: VMX|location-UUID is 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:33:05: VMX|BIOS-UUID is 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:33:06: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0317 es 0x8f67 di 0x31aa
+Mar 18 03:33:06: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:06: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:06: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:07: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0000 es 0x0000 di 0x0000
+Mar 18 03:33:07: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:07: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0300 es 0x3200 di 0x0027
+Mar 18 03:33:07: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:29: UI|Msg_Hint msg.gui.powerOffButton (not shown)
+Mar 18 03:33:29: VMX|Disabling fast IRQ handling for VNets
+Mar 18 03:33:29: VMX|OPROM: ignoring unmap of .vbios: already unmapped
+Mar 18 03:33:29: ide0:0|COWDISK: The virtual disk fat16.vmdk is clean at close.
+Mar 18 03:33:29: ide0:0|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:33:29: ide0:0|COWDISK: The virtual disk fat16.vmdk is clean at close.
+Mar 18 03:33:29: ide0:0|Performing header analysis on fat16.vmdk...
+Mar 18 03:33:29: ide0:0|Invalid offset of next sector to allocate: 8841 (should be 61622176)
+Mar 18 03:33:29: ide0:0|Performing block map analysis on fat16.vmdk...
+Mar 18 03:33:29: ide0:0|The size of the file "fat16.vmdk" is 8841 sectors.
+Mar 18 03:33:29: ide0:0|
+Mar 18 03:33:29: VMX|OPROM: OpromPowerOff
+Mar 18 03:33:29: Floppy|FloppyImage: Unlocking of Images not yet supported
+Mar 18 03:33:29: VMX|AIOPowerOff ide1:0
+Mar 18 03:33:29: ide1:0|AIOSlave: ide1:0 exiting cleanly.
+Mar 18 03:33:29: ide1:0|IPC_exit: disconnecting all threads
+Mar 18 03:33:29: ide1:0|ide1:0 IPC closed the connection with thread VMX (03874290)
+Mar 18 03:33:29: ide1:0|ide1:0 IPC The "VMX" thread exited cleanly.
+Mar 18 03:33:29: VMX|VMX IPC closed the connection with thread ide1:0 (00162B58)
+Mar 18 03:33:29: VMX|AIOPowerOff ide0:1
+Mar 18 03:33:29: ide0:1|AIOSlave: ide0:1 exiting cleanly.
+Mar 18 03:33:29: ide0:1|IPC_exit: disconnecting all threads
+Mar 18 03:33:29: ide0:1|ide0:1 IPC closed the connection with thread VMX (037F8230)
+Mar 18 03:33:29: ide0:1|ide0:1 IPC The "VMX" thread exited cleanly.
+Mar 18 03:33:29: VMX|VMX IPC closed the connection with thread ide0:1 (00162AE0)
+Mar 18 03:33:29: VMX|AIOPowerOff ide0:0
+Mar 18 03:33:29: ide0:0|AIOSlave: ide0:0 exiting cleanly.
+Mar 18 03:33:29: ide0:0|IPC_exit: disconnecting all threads
+Mar 18 03:33:29: ide0:0|ide0:0 IPC closed the connection with thread VMX (0377C1D0)
+Mar 18 03:33:29: ide0:0|ide0:0 IPC The "VMX" thread exited cleanly.
+Mar 18 03:33:29: VMX|VMX IPC closed the connection with thread ide0:0 (00162A68)
+Mar 18 03:33:29: VMX|AIOPowerOff Floppy
+Mar 18 03:33:29: Floppy|AIOSlave: Floppy exiting cleanly.
+Mar 18 03:33:29: Floppy|IPC_exit: disconnecting all threads
+Mar 18 03:33:29: Floppy|Floppy IPC closed the connection with thread VMX (03700170)
+Mar 18 03:33:29: Floppy|Floppy IPC The "VMX" thread exited cleanly.
+Mar 18 03:33:29: VMX|VMX IPC closed the connection with thread Floppy (001629F0)
+Mar 18 03:33:29: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:33:29: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:33:29: VMX|VMX: changing state 0 from 1872 to 1870
+Mar 18 03:33:29: UI|VMX(UI): changing state 0 from 1872 to 1870, nesting 0
+Mar 18 03:33:30: VMX|VMX IPC closed the connection with thread vmserverd (00162978)
+Mar 18 03:33:30: VMX|changing directory to .\.
+Mar 18 03:33:30: VMX|Config file: (null)
+Mar 18 03:33:30: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:33:30: VMX|VMX: changing state 2 from 1878 to 1877
+Mar 18 03:33:30: VMX|DICT: Set ConfigVersion to 6
+Mar 18 03:33:30: VMX|DICT: Set HWVersion to 2
+Mar 18 03:33:30: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:33:30: VMX|VMX: changing state 2 from 1877 to 1878
+Mar 18 03:33:30: UI|VMX(UI): changing state 2 from 1878 to 1877, nesting 0
+Mar 18 03:33:30: UI|Config file: (null)
+Mar 18 03:33:30: UI|VMX(UI): changing state 2 from 1877 to 1878, nesting 0
+Mar 18 03:33:31: VMX|(VMX) DeclareThread vmserverd module=34 source=0x800000
+Mar 18 03:33:31: VMX|changing directory to C:\Work\Cube\VMWare\Cube\.
+Mar 18 03:33:31: VMX|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:33:31: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:33:31: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:33:31: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:33:31: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:31: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:31: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:33:31: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:31: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:31: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:33:31: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:31: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:31: VMX|Initialized readahead: Threshold 8
+Mar 18 03:33:31: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:33:31: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:33:31: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:31: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:31: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:31: VMX|Initialized readahead: Threshold 16
+Mar 18 03:33:31: VMX|IPC version negotiation version: VMX returning 2.1 to vmserverd
+Mar 18 03:33:31: VMX|IPC vmcontrol-temp version: VMX returning 9.11 to vmserverd that tried 9.11
+Mar 18 03:33:31: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:33:31: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:33:31: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:33:31: UI|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:33:31: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:33:35: UI|Msg_Question: msg.gui.guestMemoryLowerThanLimit
+Mar 18 03:33:36: UI|Msg_Question: msg.gui.guestMemoryLowerThanLimit reply=0
+Mar 18 03:33:36: VMX|VMX: changing state 2 from 1878 to 1879
+Mar 18 03:33:36: UI|VMX(UI): changing state 2 from 1878 to 1879, nesting 0
+Mar 18 03:33:36: VMX|changing directory to C:\Work\Cube\VMWare\Cube\.
+Mar 18 03:33:36: VMX|VMX: changing state 2 from 1879 to 1878
+Mar 18 03:33:36: UI|Config file: C:\Work\Cube\VMWare\Cube\Other.vmx
+Mar 18 03:33:36: VMX|VMX: changing state 2 from 1878 to 1878
+Mar 18 03:33:36: UI|VMX(UI): changing state 2 from 1879 to 1878, nesting 0
+Mar 18 03:33:36: UI|VMX(UI): changing state 2 from 1878 to 1878, nesting 0
+Mar 18 03:33:37: VMX|PowerOn
+Mar 18 03:33:37: VMX|VMX: changing state 0 from 1870 to 1871
+Mar 18 03:33:37: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:33:37: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:37: UI|VMX(UI): changing state 0 from 1870 to 1871, nesting 0
+Mar 18 03:33:37: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:37: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:33:37: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:37: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:37: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:33:37: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:37: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:37: VMX|Initialized readahead: Threshold 8
+Mar 18 03:33:37: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:33:37: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:33:37: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:37: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:37: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:37: VMX|Initialized readahead: Threshold 16
+Mar 18 03:33:37: VMX|HOST Windows version 5.2, build 3790, platform 2, ""
+Mar 18 03:33:37: VMX|DICT --- USER PREFERENCES
+Mar 18 03:33:37: VMX|DICT        prefvmx.mru.config = C:\Work\Cube\VMWare\Cube\Other.vmx;
+Mar 18 03:33:37: VMX|DICT     prefvmx.mru.suspended = 
+Mar 18 03:33:37: VMX|DICT  prefvmx.checkMemoryLimit = FALSE
+Mar 18 03:33:37: VMX|DICT --- USER DEFAULTS
+Mar 18 03:33:37: VMX|DICT --- HOST DEFAULTS
+Mar 18 03:33:37: VMX|DICT --- SITE DEFAULTS
+Mar 18 03:33:37: VMX|DICT --- COMMAND LINE
+Mar 18 03:33:37: VMX|DICT             gui.available = TRUE
+Mar 18 03:33:37: VMX|DICT --- CONFIGURATION
+Mar 18 03:33:37: VMX|DICT            config.version = 6
+Mar 18 03:33:37: VMX|DICT         virtualHW.version = 2
+Mar 18 03:33:37: VMX|DICT               displayName = Cube
+Mar 18 03:33:37: VMX|DICT                   guestOS = other
+Mar 18 03:33:37: VMX|DICT            ide0:0.present = TRUE
+Mar 18 03:33:37: VMX|DICT           ide0:0.fileName = fat16.vmdk
+Mar 18 03:33:37: VMX|DICT            ide1:0.present = TRUE
+Mar 18 03:33:37: VMX|DICT         ide1:0.deviceType = atapi-cdrom
+Mar 18 03:33:37: VMX|DICT           ide1:0.fileName = auto detect
+Mar 18 03:33:37: VMX|DICT                   memsize = 8
+Mar 18 03:33:37: VMX|DICT         ethernet0.present = TRUE
+Mar 18 03:33:37: VMX|DICT             uuid.location = 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:33:37: VMX|DICT                      draw = gdi
+Mar 18 03:33:37: VMX|DICT         RemoteDisplay.bpp = 24
+Mar 18 03:33:37: VMX|DICT       RemoteDisplay.depth = 24
+Mar 18 03:33:37: VMX|DICT                     debug = FALSE
+Mar 18 03:33:37: VMX|DICT            ide0:1.present = TRUE
+Mar 18 03:33:37: VMX|DICT         ide0:1.deviceType = rawDisk
+Mar 18 03:33:37: VMX|DICT           ide0:1.fileName = Other (3).raw
+Mar 18 03:33:37: VMX|DICT         ide0:0.deviceType = ata-hardDisk
+Mar 18 03:33:37: VMX|DICT      disable_acceleration = FALSE
+Mar 18 03:33:37: VMX|DICT              localConsole = TRUE
+Mar 18 03:33:37: VMX|DICT          floppy0.fileType = file
+Mar 18 03:33:37: VMX|DICT          floppy0.fileName = C:\Work\Cube\flop.img
+Mar 18 03:33:37: VMX|DICT --- USER DEFAULTS
+Mar 18 03:33:37: VMX|DICT --- HOST DEFAULTS
+Mar 18 03:33:37: VMX|DICT --- SITE DEFAULTS
+Mar 18 03:33:37: VMX|DICT --- GLOBAL SETTINGS
+Mar 18 03:33:37: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:33:37: VMX|MStat: Creating Stat vm.cpuusage
+Mar 18 03:33:37: VMX|MStat: Creating Stat vm.ram
+Mar 18 03:33:37: VMX|MStat: Creating Stat vm.uptime
+Mar 18 03:33:37: VMX|GuestOSId = 0x500a 
+Mar 18 03:33:37: VMX|GetSystemTimeAdjustment returned unknown clockInterval 100144
+Mar 18 03:33:37: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:33:37: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:33:37: VMX|License: Unable to enumerate keys in the registry
+Mar 18 03:33:37: VMX|LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware GSX Server\License.gsx.2.0-00' 
+Mar 18 03:33:37: VMX|WSSCAN: reserved mem (in MB) min=32 max=384 reserved=384
+        hostMem=512 maxAllowedAll=512 maxAllowedVM=2000
+        totOverhead=16 checkMemory=0
+Mar 18 03:33:37: VMX|WSSCAN: used rec mem (in MB) 384
+Mar 18 03:33:37: VMX|PHYSMEM: TryAddRegion 0
+Mar 18 03:33:37: VMX|PHYSMEM: TryAddRegion 1
+Mar 18 03:33:37: VMX|PHYSMEM: TryAddRegion 2
+Mar 18 03:33:37: VMX|APIC: Local APIC at 0xfee00000
+Mar 18 03:33:37: VMX|KHZEstimate 2393000
+Mar 18 03:33:37: VMX|MHZEstimate 2393
+Mar 18 03:33:37: VMX|NumVCPUs 1
+Mar 18 03:33:37: VMX|(VMX) DeclareThread Floppy module=16 source=0x200000
+Mar 18 03:33:37: *NULL*(SELF) DeclareThread Floppy module=16 source=0x200000
+Mar 18 03:33:37: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:37: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:37: Floppy|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: VMX|Disk: Open(fat16.vmdk) flags=0x0=.
+Mar 18 03:33:37: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:37: Floppy|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: Floppy|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:37: VMX|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:37: VMX|COWDisk_OpenFromP(fat16.vmdk) flags 0x0= diskNum=0
+Mar 18 03:33:37: VMX|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:37: VMX|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:37: VMX|COWDISK: LEAFCACHE initialized by PID 3000 threadNum 0 with 32 entries
+Mar 18 03:33:37: VMX|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:37: VMX|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:37: VMX|Initialized readahead: Threshold 8
+Mar 18 03:33:37: VMX|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:33:37: VMX|(VMX) DeclareThread ide0:0 module=16 source=0x200000
+Mar 18 03:33:37: *NULL*(SELF) DeclareThread ide0:0 module=16 source=0x200000
+Mar 18 03:33:37: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:37: ide0:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: ide0:0|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:0|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:37: ide0:0|DISK: OPEN ide:0:0 'fat16.vmdk' persistent
+Mar 18 03:33:37: ide0:0|Disk: Open(fat16.vmdk) flags=0xf=poweron|writeable|lock|writelock.
+Mar 18 03:33:37: ide0:0|BigCOWDisk_OpenFromParent: Big Cow Disk fat16.vmdk
+Mar 18 03:33:37: ide0:0|BigCOWDisk_OpenFromParent: COWDisk is not Big capable
+Mar 18 03:33:37: ide0:0|COWDisk_OpenFromP(fat16.vmdk) flags 0xf=poweron|writeable|lock|writelock diskNum=0
+Mar 18 03:33:37: ide0:0|FILEIO: Requesting unbuffered IO for file fat16.vmdk
+Mar 18 03:33:37: ide0:0|FILEIO: Volume Sector Size for fat16.vmdk is 512
+Mar 18 03:33:37: ide0:0|Virtual disk fat16.vmdk is checkcapable and consistent
+Mar 18 03:33:37: ide0:0|COWDISK: LEAFCACHE initialized by PID 3884 threadNum 1 with 32 entries
+Mar 18 03:33:37: ide0:0|COWDISK: Disk fat16.vmdk Granularity = 128
+Mar 18 03:33:37: ide0:0|COWDISK: Open: fat16.vmdk has Generation number 23389317.
+Mar 18 03:33:37: ide0:0|Initialized readahead: Threshold 8
+Mar 18 03:33:37: ide0:0|DISK: OPEN 'fat16.vmdk' Geo (2080/16/63) BIOS Geo (0/0/0)
+Mar 18 03:33:37: VMX|MStat: Creating Stat ide0:0.bytesread
+Mar 18 03:33:37: VMX|MStat: Creating Stat ide0:0.byteswritten
+Mar 18 03:33:37: VMX|Disk: Open(Other (3).raw) flags=0x0=.
+Mar 18 03:33:37: VMX|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:37: VMX|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:37: VMX|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:37: VMX|Initialized readahead: Threshold 16
+Mar 18 03:33:37: VMX|(VMX) DeclareThread ide0:1 module=16 source=0x200000
+Mar 18 03:33:37: *NULL*(SELF) DeclareThread ide0:1 module=16 source=0x200000
+Mar 18 03:33:37: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:37: ide0:1|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: ide0:1|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide0:1|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:37: ide0:1|DISK: OPEN ide:0:1 'Other (3).raw' persistent
+Mar 18 03:33:37: ide0:1|Disk: Open(Other (3).raw) flags=0xf=poweron|writeable|lock|writelock.
+Mar 18 03:33:37: ide0:1|BigCOWDisk_OpenFromParent: Big Cow Disk Other (3).raw
+Mar 18 03:33:37: ide0:1|RawDiskWin32: lba_capacity (78177792) > cyls * heads * sectors (16514064)
+Mar 18 03:33:37: ide0:1|RawDiskWin32: ROOT RawDisk PhysicalDrive1 (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:37: ide0:1|Initialized readahead: Threshold 16
+Mar 18 03:33:37: ide0:1|DISK: OPEN 'Other (3).raw' Geo (16383/16/63) BIOS Geo (1024/255/63)
+Mar 18 03:33:37: VMX|MStat: Creating Stat ide0:1.bytesread
+Mar 18 03:33:37: VMX|MStat: Creating Stat ide0:1.byteswritten
+Mar 18 03:33:37: VMX|(VMX) DeclareThread ide1:0 module=16 source=0x200000
+Mar 18 03:33:37: *NULL*(SELF) DeclareThread ide1:0 module=16 source=0x200000
+Mar 18 03:33:37: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\settings.ini. Using default values.
+Mar 18 03:33:37: ide1:0|Msg_Reset: C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\All Users\Application Data\VMware\VMware GSX Server\config.ini. Using default values.
+Mar 18 03:33:37: ide1:0|Msg_Reset: C:\Documents and Settings\Administrator\Application Data\VMware\config.ini: The system cannot find the file specified.
+Mar 18 03:33:37: ide1:0|PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+Mar 18 03:33:37: ide1:0|ATAPI_CDROM: cdrom.modeSenseInterval=8
+Mar 18 03:33:37: VMX|MStat: Creating Stat ide1:0.bytesread
+Mar 18 03:33:37: VMX|MStat: Creating Stat ide1:0.byteswritten
+Mar 18 03:33:37: VMX|MStat: Creating Stat vm.heartbeat
+Mar 18 03:33:37: VMX|TOOLS INSTALL initializing state to IDLE on power on.
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000010).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:37: MKS|VGAWIN attrs change: depth 15 r 0x00007c00 g 0x000003e0 b 0x0000001f
+Mar 18 03:33:37: VMX|PHYSMEM: TryAddRegion 3
+Mar 18 03:33:37: VMX|Using unified VGA.
+Mar 18 03:33:37: VMX|SVGA frame buffer address 0x7efc0000
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|SVGA phys sizes: 1600x1200x32 maxPitch 0 offset 0 fb 0x00753000/0x00753000
+Mar 18 03:33:37: VMX|SVGA frame buffer size 0x00753000/0x00753000/0x00753000
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 800x600 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1024x768 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1152x864 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1280x1024 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: MKS|GDIInfo_QueryMode: 1600x1200 (depth:Unspecified bpp:00000008).
+Mar 18 03:33:37: VMX|USB: Initializing UHCI host controller
+Mar 18 03:33:37: VMX|USB: Initializing USB Generic backend
+Mar 18 03:33:37: VMX|VNET: receive cluster size is 1, threshold is 150
+Mar 18 03:33:37: VMX|VNET: send cluster threshold is 100, size = 5 recalcInterval is 2 ticks
+Mar 18 03:33:37: VMX|MStat: Creating Stat ethernet0.bytesread
+Mar 18 03:33:37: VMX|MStat: Creating Stat ethernet0.byteswritten
+Mar 18 03:33:37: VMX|VNET: request IP-based MAC address 58:8e:47
+Mar 18 03:33:37: VMX|Initial etheraddr 00:50:56:58:8e:47
+Mar 18 03:33:37: VMX|VirtualProtect MapProtectMem(0x14f1000,0x1000) returns 0x1e7
+Mar 18 03:33:37: VMX|Can't read-only monitor pages #1
+Mar 18 03:33:37: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:37: VMX|PHYSMEM: DynAlloc 0: 0xffffffff + 1875 pages
+Mar 18 03:33:37: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:37: VMX|PHYSMEM: DynAlloc 1: 0xffffffff + 64 pages
+Mar 18 03:33:37: VMX|VMX_PowerOn: ModuleTable_PowerOn = 1
+Mar 18 03:33:37: VMX|VMX_PowerOn: Barrier_Last = 1
+Mar 18 03:33:37: VMX|VMX setting maximum IPC write buffers to 0 packets, 0 bytes
+Mar 18 03:33:37: VMX|APIC: Setting up interrupts
+Mar 18 03:33:37: VMX|APIC: version = 0x14, max LVT = 5
+Mar 18 03:33:37: VMX|APIC: LDR = 0x0, DFR = 0xffffffff
+Mar 18 03:33:37: VMX|APIC: timer interrupt reg = 0x10000
+Mar 18 03:33:37: VMX|APIC: spurious interrupt reg = 0x10f
+Mar 18 03:33:37: VMX|APIC: local interrupt 0 reg = 0x700
+Mar 18 03:33:37: VMX|APIC: local interrupt 1 reg = 0x400
+Mar 18 03:33:37: VMX|APIC: local error reg = 0x10000
+Mar 18 03:33:37: VMX|APIC: performance counter reg = 0x0
+Mar 18 03:33:37: VMX|Monitor initalized: RELEASEbuild-5336 (gcc)
+Mar 18 03:33:37: VMX|Monitor controlFlag: 0x24000200:0x40
+Mar 18 03:33:37: VMX|cpuFeatures = 0x31fe01
+Mar 18 03:33:37: VMX|FPU_Init  cr0=0x8001003b
+Mar 18 03:33:37: VMX|VIDE: capacity: 2096640 lba_capacity: 2096640
+Mar 18 03:33:37: VMX|VIDE: (0x1f0) Drive 0 InitDrive cyl/hd/sec=2080/16/63 
+Mar 18 03:33:37: VMX|VIDE: capacity: 16514064 lba_capacity: 78177792
+Mar 18 03:33:37: VMX|VIDE: (0x1f0) Drive 1 InitDrive cyl/hd/sec=16383/16/63 
+Mar 18 03:33:37: VMX|Enabling VNet fast IRQ handling
+Mar 18 03:33:37: VMX|0:0:0: vendor 0x1106 device 0x3168 class 0x6 sub-class 0x0 intLine 0 vector 48
+Mar 18 03:33:37: VMX|0:1:0: vendor 0x1106 device 0xb168 class 0x6 sub-class 0x4 intLine 0 vector 48
+Mar 18 03:33:37: VMX|0:16:0: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 11 vector 59
+Mar 18 03:33:37: VMX|0:16:1: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 11 vector 59
+Mar 18 03:33:37: VMX|0:16:2: vendor 0x1106 device 0x3038 class 0xc sub-class 0x3 intLine 10 vector 58
+Mar 18 03:33:37: VMX|0:16:3: vendor 0x1106 device 0x3104 class 0xc sub-class 0x3 intLine 5 vector 53
+Mar 18 03:33:37: VMX|0:17:0: vendor 0x1106 device 0x3177 class 0x6 sub-class 0x1 intLine 0 vector 48
+Mar 18 03:33:37: VMX|0:17:1: vendor 0x1106 device 0x571 class 0x1 sub-class 0x1 intLine 255 vector 0
+Mar 18 03:33:37: VMX|0:18:0: vendor 0x1106 device 0x3065 class 0x2 sub-class 0x0 intLine 11 vector 59
+Mar 18 03:33:37: VMX|1:0:0: vendor 0x10de device 0x201 class 0x3 sub-class 0x0 intLine 11 vector 59
+Mar 18 03:33:37: VMX|Unconflicting NIC IRQs are 59 
+Mar 18 03:33:37: VMX|VNET: Enabling Notification for ethernet0
+Mar 18 03:33:37: VMX|VNET: Notification Enabled for ethernet0
+Mar 18 03:33:37: ide1:0|Winnt_CDROM: Detected a CD-ROM of 'F:\'
+Mar 18 03:33:37: Floppy|FloppyImage: Locking of Images not yet supported
+Mar 18 03:33:37: VMX|VMX: changing state 0 from 1871 to 1872
+Mar 18 03:33:37: UI|VMX(UI): changing state 0 from 1871 to 1872, nesting 0
+Mar 18 03:33:38: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:38: MKS|VGAWIN attrs change: depth 24 r 0x00ff0000 g 0x0000ff00 b 0x000000ff
+Mar 18 03:33:38: VMX|sz=2952112
+Mar 18 03:33:38: VMX|SVGA: Registering MemSpace at 0xfc000000(0x7efc0000) and 0xfb000000(0x7ffc0000)
+Mar 18 03:33:39: VMX|PCI SVGA: Asked to map the SVGA OPROM at 0xfe800000 (size 32768 bytes)
+Mar 18 03:33:39: VMX|OPROM: mapping .vbios: 0xfe800000-0xfe808000
+Mar 18 03:33:39: VMX|OPROM: allocating 8000 bytes for .vbios
+Mar 18 03:33:39: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:39: VMX|PHYSMEM: DynAlloc 2: 0xfe800 + 8 pages
+Mar 18 03:33:39: VMX|OPROM: loading .vbios
+Mar 18 03:33:39: VMX|PCI SVGA: Asked to unmap the SVGA OPROM
+Mar 18 03:33:39: VMX|OPROM: smashing .vbios
+Mar 18 03:33:39: VMX|SVGA: Unregistering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:39: VMX|SVGA: Registering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:39: VMX|PCI SVGA: Asked to map the SVGA OPROM at 0xfe800000 (size 32768 bytes)
+Mar 18 03:33:39: VMX|OPROM: mapping .vbios: 0xfe800000-0xfe808000
+Mar 18 03:33:39: VMX|PHYSMEM: TryAddRegion 4
+Mar 18 03:33:39: VMX|OPROM: loading .vbios
+Mar 18 03:33:39: VMX|PCI SVGA: Asked to unmap the SVGA OPROM
+Mar 18 03:33:39: VMX|OPROM: smashing .vbios
+Mar 18 03:33:39: VMX|SVGA: Unregistering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:39: VMX|SVGA: Registering IOSpace at 0x10a0 (0x0000)
+Mar 18 03:33:39: VMX|SVGA: Registering MemSpace at 0xfc000000(0xfc000000) and 0xfb000000(0xfb000000)
+Mar 18 03:33:39: MKS|GDIInfo_QueryMode: 648x224 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:39: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:39: VMX|VBE call 0x4f02 bx 0x0007 cx 0x03d5 es 0x0078 di 0x0000
+Mar 18 03:33:39: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:39: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:39: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:39: VMX|VBE call 0x4f02 bx 0x0003 cx 0x03c2 es 0x0078 di 0x0000
+Mar 18 03:33:39: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:39: VMX|VBE call 0x4f02 bx 0x0012 cx 0x03b5 es 0x01c1 di 0x7b96
+Mar 18 03:33:39: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:39: MKS|GDIInfo_QueryMode: 640x480 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:39: VMX|UHCI: HCReset
+Mar 18 03:33:43: VMX|VIDE: Curr CHS info cyls: 2080 heads: 16 sects: 63 lba_cap: 2096640
+Mar 18 03:33:43: VMX|VIDE: Curr CHS info cyls: 16383 heads: 16 sects: 63 lba_cap: 78177792
+Mar 18 03:33:44: VMX|VBE call 0x4f00 bx 0x0b98 cx 0x0200 es 0x7f80 di 0x005a
+Mar 18 03:33:44: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:44: VMX|location-UUID is 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:33:44: VMX|BIOS-UUID is 56 4d ba de 9f a2 cd ed-76 e4 38 13 5b 4d 58 63
+Mar 18 03:33:45: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0317 es 0x8f67 di 0x31aa
+Mar 18 03:33:45: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:45: MKS|GDIInfo_QueryMode: 720x400 (depth:Unspecified bpp:00000020).
+Mar 18 03:33:45: MKS|GDIInfo_QueryMode: Could not find exact match.
+Mar 18 03:33:46: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0000 es 0x0000 di 0x0000
+Mar 18 03:33:46: VMX|VBE: disabled; ignoring call
+Mar 18 03:33:46: VMX|VBE call 0x4f02 bx 0x0003 cx 0x0300 es 0x3200 di 0x0027
+Mar 18 03:33:46: VMX|VBE: disabled; ignoring call
+Mar 18 03:34:38: UI|Msg_Hint msg.gui.powerOffButton (not shown)
+Mar 18 03:34:38: VMX|Disabling fast IRQ handling for VNets
+Mar 18 03:34:38: VMX|OPROM: ignoring unmap of .vbios: already unmapped
+Mar 18 03:34:38: ide0:0|COWDISK: The virtual disk fat16.vmdk is clean at close.
+Mar 18 03:34:38: ide0:0|BigCOWDisk_Close: closing 1 disks of BigCowDisk fat16.vmdk
+Mar 18 03:34:38: ide0:0|COWDISK: The virtual disk fat16.vmdk is clean at close.
+Mar 18 03:34:38: ide0:0|Performing header analysis on fat16.vmdk...
+Mar 18 03:34:38: ide0:0|Invalid offset of next sector to allocate: 8841 (should be 61869856)
+Mar 18 03:34:38: ide0:0|Performing block map analysis on fat16.vmdk...
+Mar 18 03:34:38: ide0:0|The size of the file "fat16.vmdk" is 8841 sectors.
+Mar 18 03:34:38: ide0:0|
+Mar 18 03:34:38: VMX|OPROM: OpromPowerOff
+Mar 18 03:34:38: Floppy|FloppyImage: Unlocking of Images not yet supported
+Mar 18 03:34:38: VMX|AIOPowerOff ide1:0
+Mar 18 03:34:38: ide1:0|AIOSlave: ide1:0 exiting cleanly.
+Mar 18 03:34:38: ide1:0|IPC_exit: disconnecting all threads
+Mar 18 03:34:38: ide1:0|ide1:0 IPC closed the connection with thread VMX (03874290)
+Mar 18 03:34:38: ide1:0|ide1:0 IPC The "VMX" thread exited cleanly.
+Mar 18 03:34:38: VMX|VMX IPC closed the connection with thread ide1:0 (00162B58)
+Mar 18 03:34:38: VMX|AIOPowerOff ide0:1
+Mar 18 03:34:38: ide0:1|AIOSlave: ide0:1 exiting cleanly.
+Mar 18 03:34:38: ide0:1|IPC_exit: disconnecting all threads
+Mar 18 03:34:38: ide0:1|ide0:1 IPC closed the connection with thread VMX (037F8230)
+Mar 18 03:34:38: ide0:1|ide0:1 IPC The "VMX" thread exited cleanly.
+Mar 18 03:34:38: VMX|VMX IPC closed the connection with thread ide0:1 (00162AE0)
+Mar 18 03:34:38: VMX|AIOPowerOff ide0:0
+Mar 18 03:34:38: ide0:0|AIOSlave: ide0:0 exiting cleanly.
+Mar 18 03:34:38: ide0:0|IPC_exit: disconnecting all threads
+Mar 18 03:34:38: ide0:0|ide0:0 IPC closed the connection with thread VMX (0377C1D0)
+Mar 18 03:34:38: ide0:0|ide0:0 IPC The "VMX" thread exited cleanly.
+Mar 18 03:34:38: VMX|VMX IPC closed the connection with thread ide0:0 (00162A68)
+Mar 18 03:34:38: VMX|AIOPowerOff Floppy
+Mar 18 03:34:38: Floppy|AIOSlave: Floppy exiting cleanly.
+Mar 18 03:34:38: Floppy|IPC_exit: disconnecting all threads
+Mar 18 03:34:38: Floppy|Floppy IPC closed the connection with thread VMX (03700170)
+Mar 18 03:34:38: Floppy|Floppy IPC The "VMX" thread exited cleanly.
+Mar 18 03:34:38: VMX|VMX IPC closed the connection with thread Floppy (001629F0)
+Mar 18 03:34:38: VMX|VMX: changing state 1 from 1873 to 1873
+Mar 18 03:34:38: UI|VMX(UI): changing state 1 from 1873 to 1873, nesting 0
+Mar 18 03:34:38: VMX|VMX: changing state 0 from 1872 to 1870
+Mar 18 03:34:38: UI|VMX(UI): changing state 0 from 1872 to 1870, nesting 0
+Mar 18 03:34:40: VMX|VMX IPC closed the connection with thread vmserverd (00162978)
+Mar 18 03:34:40: MKS|Local MKS exit.
+Mar 18 03:34:40: VMX|IPC_exit: disconnecting all threads
+Mar 18 03:34:40: VMX|VMX IPC closed the connection with thread UI (00162888)
+Mar 18 03:34:40: VMX|VMX IPC The "UI" thread exited cleanly.
+Mar 18 03:34:40: VMX|VMX IPC closed the connection with thread MKS (00162900)
+Mar 18 03:34:40: VMX|VMX IPC The "MKS" thread exited cleanly.
+Mar 18 03:34:40: UI|Local UI exit.
+Mar 18 03:34:40: UI|IPC_exit: disconnecting all threads
+Mar 18 03:34:40: UI|UI IPC closed the connection with thread VMX (00F9F0F8)
+Mar 18 03:34:40: UI|UI IPC The "VMX" thread exited cleanly.
+Mar 18 03:34:40: UI|UI IPC closed the connection with thread MKS (00F9F170)
+Mar 18 03:34:40: UI|UI IPC The "MKS" thread exited cleanly.
+Mar 18 03:34:40: UI|UI IPC closed the connection with thread vmserverd (00F9F1E8)
+Mar 18 03:34:40: UI|UI IPC The "vmserverd" thread exited cleanly.
+Mar 18 03:34:40: UI|Config file: (null)
+Mar 18 03:34:40: VMX|VMX exit.

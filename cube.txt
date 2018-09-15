@@ -1,0 +1,79 @@
+BOOTLOADER
+=====================================================
+cubeldr - collect pc info, load cubekrnl.exe and other stuff
+
+cubekrnl.exe
+=====================================================
+
+USER APPS
+---------
+KERNEL
+- - - - -
+HAL
+
+HAL:
+
+typedef struct
+{
+	u32_t edi;
+	u32_t esi;
+	u32_t ebp;
+	u32_t esp;
+	u32_t ebx;
+	u32_t edx;
+	u32_t ecx;
+	u32_t eax;
+} regs_t;
+
+typedef struct
+{
+	u32_t gs;
+	u32_t fs;
+	u32_t es;
+	u32_t ds;
+	regs_t regs;
+	u32_t interrupt;	
+	u32_t code;
+	u32_t eip;
+	u32_t cs;
+	u32_t eflags;
+	u32_t esp;
+	u32_t ss;
+} context_t;
+
+void HALSetup()
+void HALInitContext(context_t *context, int type, uint entry, uint stack)
+void HALIdleThread()
+void HALSetTimerFreq(uint freq)
+void HALEnableIRQs(u16_t mask) -1 = sti
+void HALDisableIRQs(u16_t mask) -1 = cli
+void HALAckInterrupt(u8_t int)
+void HALShutDown(uint flags)
+void HALSetPageTable(void *page)
+
+Taskman
+========================================================
+typedef struct thread_t thread_t;
+struct thread_t
+{
+	context_t *context;
+	thread_t  *next;	
+	u32_t     id;
+	u32_t     state;
+	process_t *process;
+	int       priority;
+	int       ticks;
+};
+
+typedef struct process_t process_t;
+struct process_t
+{
+	process_t *next;
+	thread_t  *threads;
+	u32_t     id;
+	u32_t     pagedir;
+	char      *path;
+	u32_t     unique_thread_id;
+	u32_t     type;
+	u32_t     parent_id;
+};
